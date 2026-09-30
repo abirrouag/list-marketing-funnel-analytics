@@ -1,0 +1,1037 @@
+seller_key,seller_id,won_date,lead_type,lead_behaviour_profile,business_type,declared_monthly_revenue,declared_product_catalog_size,average_stock,has_company,has_gtin,city,state
+1,55ab8902ebc34bc1a613c59f8a70d721,2017-10-06 18:21:18,online_store,wolf,reseller,57214.07,117,50-100,1,1,Porto Alegre,RS
+2,1aeaa0cf032f4627aed22014c4ddd8bc,2017-11-05 03:54:18,reseller,cat,reseller,14778.27,66,5-20,1,1,Rio de Janeiro,RJ
+3,a65adeebcd9345d1b7b8382fc67c0a3e,2017-11-07 04:30:29,industry,wolf,reseller,10958.86,45,5-20,1,0,Porto Alegre,RS
+4,942dd8c2ef41441d83b392608d287396,2018-01-28 17:48:55,offline,eagle,manufacturer,10073.58,19,50-100,1,1,Sao Paulo,SP
+5,9127f0ea7bfb4a1ebdd9070ab450d832,2018-05-14 23:42:22,industry,cat,reseller,61655.28,191,20-50,1,1,BA City,BA
+6,4b6539e2362f47bba3adbd0475a4ffa8,2018-04-11 17:35:55,manufacturer,shark,manufacturer,2685.2,16,100-500,1,0,CE City,CE
+7,abace2300990447cb8bd17d59c27f6c6,2017-09-09 01:29:02,online_store,shark,manufacturer,40441.67,181,50-100,1,0,Belo Horizonte,MG
+8,5137bd8b256a483aafcd8bf593b958c0,2017-10-02 14:33:52,online_store,cat,other,11873.07,6,20-50,1,1,BA City,BA
+9,b23630933c8a454681ac85913bcb53d0,2017-08-07 19:41:39,offline,wolf,reseller,4756.73,28,20-50,1,0,Rio de Janeiro,RJ
+10,e4bf964c1f1e418ba9a5fad43451b66d,2017-08-16 10:40:28,manufacturer,wolf,reseller,119993.83,18,50-100,1,0,PE City,PE
+11,6b96728a0f3d4f7596669118e035f660,2017-10-27 22:12:43,offline,eagle,reseller,6538.69,28,20-50,1,0,SC City,SC
+12,62e1b37f30cc463aa0d231ceba9ca3d6,2018-03-07 04:26:17,online_store,wolf,reseller,2912.13,13,1-5,0,0,CE City,CE
+13,d60f3d0b072e424c93ef442cb05ae177,2018-03-14 20:22:41,offline,cat,reseller,44002.49,10,100-500,0,1,Belo Horizonte,MG
+14,0685087504b5453f8c1e4c6d955c7c38,2018-03-05 10:39:55,offline,wolf,manufacturer,267832.37,83,20-50,1,0,Curitiba,PR
+15,e9467de9cf4f4d1c8d7cc522d277ddf2,2018-01-01 07:55:57,online_store,eagle,other,4420.54,5,100-500,1,1,Rio de Janeiro,RJ
+16,3421b9f906924470846ac5921187d8aa,2018-02-09 07:06:13,manufacturer,cat,manufacturer,5795.15,25,50-100,1,0,Sao Paulo,SP
+17,9a84bd14dca841f188195d282504f459,2017-09-20 18:08:29,industry,eagle,reseller,5741.91,191,1-5,1,0,Sao Paulo,SP
+18,58e0bbc68f844308827255396dad7666,2018-02-21 23:31:32,industry,cat,manufacturer,5100.45,56,100-500,0,1,BA City,BA
+19,7eff7b20c113422ba2013e6bcb21cb98,2018-01-05 07:08:05,industry,cat,reseller,25889.71,32,5-20,0,0,Sao Paulo,SP
+20,b82489b2c8b84abd8d4990feaf41c6d4,2018-02-09 10:38:09,reseller,wolf,manufacturer,87536.48,16,5-20,1,1,Belo Horizonte,MG
+21,504e5ac0909241baac336709c232a8f1,2018-04-08 15:00:51,online_store,shark,reseller,7602.88,42,20-50,1,0,Sao Paulo,SP
+22,bd5d9f579cea4f668f4a18eb423bf14b,2018-06-06 21:15:29,online_store,eagle,manufacturer,8178.55,53,20-50,1,1,Sao Paulo,SP
+23,bb0bf5dda6a44a70906ae3ef80da55eb,2017-10-31 04:44:33,offline,shark,reseller,42404.23,43,100-500,1,1,BA City,BA
+24,18c4510ca9c94686b0c91a4b36511bda,2017-09-21 13:26:46,offline,shark,reseller,1906.53,79,5-20,1,1,SC City,SC
+25,83852366b5734e0fae94495962cbecfa,2017-11-25 17:17:11,other,cat,reseller,5351.32,104,20-50,0,0,Belo Horizonte,MG
+26,5ff4d68866634549848463fc86a25fae,2018-05-05 00:32:48,online_store,wolf,reseller,115381.38,102,50-100,1,0,Sao Paulo,SP
+27,26d93bcadf8d4ec0873ab4c6aa22ed50,2017-10-21 13:23:34,online_store,wolf,other,118196.85,120,20-50,1,1,Rio de Janeiro,RJ
+28,d37f3409a900430bad96e34d01129a89,2018-01-18 07:32:51,online_store,shark,manufacturer,4407.77,161,50-100,1,0,Sao Paulo,SP
+29,37b13c1ca3a248649e1663fd6be63b89,2017-12-06 02:41:18,industry,wolf,reseller,12068.42,88,5-20,0,1,Sao Paulo,SP
+30,d480eb2939774bd39254e1b899a8b63a,2018-06-03 00:02:40,online_store,wolf,reseller,16563.17,161,20-50,1,1,Sao Paulo,SP
+31,aff2fdeac8b645fc9cc95d89be268912,2018-06-11 11:12:06,industry,shark,reseller,9428.15,24,50-100,0,1,Rio de Janeiro,RJ
+32,4a9a1b4644b54917a3daf801a43f9c73,2017-10-10 16:59:52,industry,cat,reseller,113630.49,118,100-500,1,1,Sao Paulo,SP
+33,8500ee207cd443559bc5c6853e80d904,2018-03-18 05:57:49,online_store,cat,reseller,24881.07,36,5-20,1,1,Belo Horizonte,MG
+34,d2bde5eb4ff345459736a28f59bc078a,2017-09-02 05:39:20,offline,eagle,reseller,10566.38,67,50-100,1,1,Sao Paulo,SP
+35,969db8a5ce864e128647b40daa2743ff,2017-10-07 19:55:52,online_store,wolf,manufacturer,2688.66,61,5-20,0,1,Rio de Janeiro,RJ
+36,a83552af785a4d9eb11230c71152ee2e,2018-04-12 08:06:33,manufacturer,eagle,reseller,5782.58,21,100-500,1,1,Sao Paulo,SP
+37,3d9ffa402dea4ad79ed8985bd7d445ba,2017-09-16 06:46:01,offline,cat,reseller,30767.01,16,20-50,1,0,CE City,CE
+38,c242b291c1ea466fac9a4b1a5ccd6f4a,2018-01-27 20:38:28,industry,cat,reseller,11689.53,39,100-500,0,1,Rio de Janeiro,RJ
+39,7e75b1dac77040a9aed00d649c5dc0c3,2018-02-26 00:34:34,offline,cat,manufacturer,8041.15,25,5-20,0,1,Sao Paulo,SP
+40,c1ddaf61878d494d975a9a109f65e98e,2017-12-16 06:08:27,industry,cat,other,6781.32,49,50-100,0,1,Rio de Janeiro,RJ
+41,29c2417a0f554a5a9b3087e601198ac6,2017-07-13 22:59:49,industry,eagle,manufacturer,28155.71,112,20-50,1,1,BA City,BA
+42,a102541cae4c4a508183b29d0923a1be,2017-08-21 05:30:36,offline,eagle,reseller,5024.89,10,20-50,0,1,Curitiba,PR
+43,39f93b43809d41039039f24a14dbda3f,2018-05-31 08:44:27,online_store,cat,reseller,4881.65,16,5-20,1,1,Porto Alegre,RS
+44,b1bdf33f702445dbb1f06be81b625427,2018-04-19 03:06:05,online_store,wolf,reseller,154927.01,19,20-50,1,0,Sao Paulo,SP
+45,99773dac32124d45a2d42259d3653958,2018-03-28 02:09:08,online_store,wolf,reseller,19231.89,11,5-20,1,1,Belo Horizonte,MG
+46,015ee70c432e45d9873aaabac1caa1df,2017-07-17 10:41:57,manufacturer,cat,reseller,9123.89,48,20-50,1,1,Curitiba,PR
+47,d614802f4a2a4b0fad3b59e1c7a2cd7e,2018-05-03 05:06:32,online_store,cat,reseller,2702.84,148,50-100,1,1,Belo Horizonte,MG
+48,5683604e9b624c46b0f17713273bf952,2017-08-01 18:25:40,online_store,eagle,reseller,15011.73,70,100-500,1,0,BA City,BA
+49,363616b97ba145d89d4839a0d85c16e9,2018-05-04 06:28:24,industry,eagle,reseller,36014.75,53,1-5,0,0,Sao Paulo,SP
+50,8dcbc6c95b8c46f799bd9ec9518ea03e,2017-09-04 23:11:59,industry,eagle,reseller,103885.91,134,50-100,1,0,Sao Paulo,SP
+51,7e4475c79ba3429e8833e61fff11d43f,2018-04-02 22:30:28,online_store,eagle,manufacturer,5966.62,63,20-50,1,0,BA City,BA
+52,20f40cbef45145aba4950256b3546c75,2017-06-19 21:48:45,online_store,shark,manufacturer,4877.41,51,50-100,1,1,Belo Horizonte,MG
+53,98ea8d6dde244c56a3edbcc5592d54c6,2018-07-09 15:34:48,offline,eagle,manufacturer,507.17,13,50-100,1,0,Sao Paulo,SP
+54,d4796a147d2d4dbea9a50d5daddee5a0,2017-11-11 02:57:04,offline,eagle,manufacturer,37671.01,81,20-50,1,1,Sao Paulo,SP
+55,d51c2d277a3243d783fc7b8ae7ca7d8a,2017-08-04 22:48:02,industry,shark,reseller,33640.24,34,5-20,1,1,SC City,SC
+56,19725b138d5f46a8903f95c4f19c0126,2018-05-28 10:36:21,industry,eagle,reseller,30465.43,9,20-50,0,0,Sao Paulo,SP
+57,9308188a66ff4c7587a4562156331bd1,2017-11-16 06:22:11,manufacturer,eagle,reseller,78988.97,22,20-50,0,0,Sao Paulo,SP
+58,53f65b60dc324ba5b512084b6a6ed48e,2018-04-07 05:47:08,industry,cat,reseller,16973.5,21,20-50,1,1,Sao Paulo,SP
+59,0fd08c0be9c946c780c80587ff597eba,2017-12-29 18:30:13,manufacturer,cat,reseller,11465.66,23,100-500,1,0,PE City,PE
+60,4c5b7eee5d9e4cf28ffe27d64052770a,2018-06-04 02:25:42,online_store,cat,reseller,30800.26,30,20-50,1,0,PE City,PE
+61,bf1f1b5991574cf59d723d95ef160a39,2018-05-05 11:39:33,reseller,cat,manufacturer,1591.05,79,100-500,0,0,Rio de Janeiro,RJ
+62,14f3c5bd1edb40f88f69161568fea626,2018-03-30 17:33:20,online_store,wolf,reseller,83949.52,25,50-100,1,1,Rio de Janeiro,RJ
+63,a54369ac96844995a4d84a46f7151989,2018-01-23 10:40:32,online_store,wolf,reseller,8749.73,11,20-50,1,0,Sao Paulo,SP
+64,4023838c82c7439380379a9d6ac51b7e,2017-12-11 00:52:05,offline,eagle,reseller,118625.43,63,1-5,1,1,Sao Paulo,SP
+65,ff3327cd1b96400dbc066e2d2be4992a,2018-03-24 14:49:43,offline,shark,reseller,12334.14,42,1-5,1,0,SC City,SC
+66,8c44943b7eb54410be07c19470425439,2017-12-17 13:44:14,online_store,cat,reseller,33656.53,64,50-100,0,1,Sao Paulo,SP
+67,368a1962309e4cd5aa4044e232dd1cc2,2017-09-28 05:56:24,manufacturer,cat,reseller,31090.49,35,50-100,0,0,Rio de Janeiro,RJ
+68,c5400439b65d49869a457315bf8a42dc,2018-05-10 03:16:12,online_store,cat,manufacturer,4159.88,25,20-50,1,1,Belo Horizonte,MG
+69,795b360798bf4a46ab6b61688d4326f6,2017-09-17 13:56:58,industry,cat,manufacturer,5282.58,30,50-100,1,1,Sao Paulo,SP
+70,e0757fa4577f4c1e8c003e8567c5351b,2018-06-09 09:22:41,industry,cat,reseller,54975.29,147,20-50,1,1,Rio de Janeiro,RJ
+71,063f709d641b45ffb13f792c0c94d7de,2018-06-02 15:22:38,online_store,cat,manufacturer,39397.13,95,1-5,1,0,Belo Horizonte,MG
+72,bbe3e7ec1d4a48768f135db890bc59db,2017-12-13 06:47:37,reseller,cat,reseller,3750.78,43,20-50,0,0,Porto Alegre,RS
+73,4b62ad208b2a49348f5ef1d5dad8e8e5,2017-10-14 21:56:17,online_store,wolf,reseller,9922.34,31,20-50,0,1,Sao Paulo,SP
+74,162692e4861441cca2971955633efc0a,2017-10-15 03:54:17,online_store,eagle,reseller,12462.05,30,20-50,1,1,Sao Paulo,SP
+75,4250ed857ded4224b23d94824ddfac69,2017-08-08 03:29:03,online_store,eagle,manufacturer,25463.99,24,500+,1,0,Belo Horizonte,MG
+76,6564e5b8f92e488b9efbf1a474734a62,2018-02-01 20:15:32,other,shark,reseller,106551.76,63,20-50,1,1,CE City,CE
+77,8913904c883545258d67c5563bb4f188,2017-08-30 19:55:55,manufacturer,shark,reseller,6292.38,27,5-20,1,0,Sao Paulo,SP
+78,9c5b180b92b2481eb38239e06b113726,2018-01-19 11:20:21,offline,eagle,reseller,7329.68,71,5-20,1,1,CE City,CE
+79,25b55d4c41ee4811bf24a34f1101e699,2017-07-02 10:23:04,other,shark,manufacturer,11872.69,32,20-50,0,1,Porto Alegre,RS
+80,6df91d7b8e964b338107aa91d0a9307e,2018-03-15 01:28:16,online_store,eagle,reseller,20869.9,36,5-20,1,0,SC City,SC
+81,2dd1c34e071f4a46b6c561d57c8144f0,2017-08-15 13:49:36,manufacturer,cat,reseller,14126.87,53,20-50,1,1,Sao Paulo,SP
+82,0fdcf8d61af143559eab79eadb4ced59,2018-01-28 02:20:47,industry,cat,reseller,3448.49,12,20-50,0,0,Sao Paulo,SP
+83,8dbf62f9a3fd401d9d06e3adbd86dcbd,2017-11-19 12:44:07,industry,wolf,manufacturer,24515.18,65,5-20,1,1,Sao Paulo,SP
+84,20835fa7495348259b18eb214b43d74a,2018-01-17 08:04:02,online_store,eagle,reseller,16378.05,25,50-100,0,0,Sao Paulo,SP
+85,6cb73bcdeb1444fa81ac1508b777507e,2018-01-18 12:59:46,online_store,wolf,reseller,8636.27,33,100-500,0,0,CE City,CE
+86,0feab21d55884faf985beb84f0811cac,2017-07-11 13:43:55,online_store,eagle,reseller,159.81,16,20-50,1,1,Sao Paulo,SP
+87,fd1262347d9d45e9925a463080e694ea,2017-07-16 17:46:25,online_store,wolf,reseller,4797.84,13,50-100,1,1,Belo Horizonte,MG
+88,ff0c326f599a4f8a8c077b013ce72a6b,2018-04-15 12:23:51,online_store,cat,reseller,14872.58,22,20-50,1,1,Sao Paulo,SP
+89,77d371826d8441c1a563736f2a557949,2017-08-09 13:32:33,online_store,shark,reseller,5891.27,17,20-50,0,0,Porto Alegre,RS
+90,aa0006188bd741cea124941524cec417,2017-08-17 09:45:22,manufacturer,wolf,reseller,6526.38,55,1-5,1,1,Sao Paulo,SP
+91,78cc36587fe347c98d2980b9baa32729,2018-04-21 05:25:24,manufacturer,cat,reseller,38748.95,38,20-50,0,1,Sao Paulo,SP
+92,c74904db78b84bcd9490396743705d68,2018-04-12 22:50:54,online_store,eagle,reseller,2258.07,135,20-50,0,0,Sao Paulo,SP
+93,de91a5067b2141bd9b99e9791fbf80b1,2017-12-21 22:20:44,other,wolf,reseller,31099.77,55,20-50,1,1,Curitiba,PR
+94,4a9e8943bd02447f960db0fd55bad4a3,2018-04-09 14:12:07,manufacturer,shark,reseller,22764.88,31,50-100,1,0,Sao Paulo,SP
+95,c68c113ffb984163a0453e2f617b02f2,2018-01-13 13:22:49,online_store,eagle,reseller,17367.12,140,100-500,1,0,Sao Paulo,SP
+96,d8819bae86664bbdaee867ab5e2a6d4b,2017-06-22 01:03:27,online_store,cat,reseller,9101.63,9,5-20,1,0,Sao Paulo,SP
+97,4f15c4b9bd9b4486aa91450786e290e2,2018-01-23 15:30:48,offline,eagle,manufacturer,4980.06,115,1-5,1,1,DF City,DF
+98,f51c45e7cd8843058b3c20541dc4956f,2018-04-08 22:50:04,online_store,wolf,reseller,37198.32,28,1-5,1,1,Belo Horizonte,MG
+99,b6487108268f42ba8afa47f7f6f8ed8f,2018-02-28 09:00:00,industry,eagle,reseller,9659.32,33,5-20,1,0,Porto Alegre,RS
+100,6ededa4c37d04b1a8330023bcae22790,2017-10-31 17:28:41,industry,shark,reseller,9027.43,59,1-5,1,1,Belo Horizonte,MG
+101,0c48c3b8168843f4804eb5aa8c9bcbaa,2018-01-03 03:02:10,other,shark,reseller,21565.56,93,5-20,0,1,Sao Paulo,SP
+102,1a752be174644bd199a5fa45409cdaa6,2017-11-28 12:44:29,offline,wolf,other,65223.78,30,100-500,0,1,Belo Horizonte,MG
+103,1d0b627a1ae346f08e4898158e768ab4,2018-01-18 14:34:30,reseller,wolf,reseller,30456.39,5,20-50,1,0,Sao Paulo,SP
+104,6c6b740727124bb08b237aa949d8f7d5,2018-05-19 16:18:15,reseller,wolf,manufacturer,23417.25,117,500+,1,0,Sao Paulo,SP
+105,0f4a10e2e0c24e2fbb688300d4bf3907,2018-03-22 21:10:19,offline,eagle,reseller,68336.67,24,50-100,1,1,Belo Horizonte,MG
+106,17c9ef086898459bb4c84e85ae8848b8,2018-03-16 02:24:15,industry,wolf,other,22784.24,87,100-500,1,1,Rio de Janeiro,RJ
+107,517e65bc54224d32b89ea5646419dbca,2017-07-17 19:30:32,industry,eagle,reseller,19712.59,75,50-100,0,1,Sao Paulo,SP
+108,901ef24ccd9a42f1866d33ddb1f3629b,2017-10-12 10:00:41,online_store,cat,reseller,128944.14,19,50-100,1,0,Sao Paulo,SP
+109,0ea96371ab234f12988773d18456508b,2018-05-22 16:15:50,industry,wolf,reseller,65919.61,7,50-100,1,0,Curitiba,PR
+110,d77473874b3e43c58e8d3787f36464ab,2017-06-20 14:45:44,offline,cat,manufacturer,4904.22,80,20-50,1,1,Porto Alegre,RS
+111,f0131a6faa6c4977ac734ccf984a21c6,2018-04-12 13:36:39,online_store,shark,reseller,67092.32,29,50-100,1,1,Sao Paulo,SP
+112,5f9c80bbc16a4c8ba3fbe7214e019960,2017-11-14 17:42:23,industry,wolf,manufacturer,81011.27,39,20-50,1,0,Sao Paulo,SP
+113,a99a2ed3f54d4acba7d601a8a770e245,2018-01-28 04:05:52,reseller,cat,reseller,41569.23,18,50-100,1,1,BA City,BA
+114,6c50ff96be924507b7674da9dca9e812,2017-07-27 13:51:02,online_store,eagle,reseller,14377.15,44,50-100,1,1,Curitiba,PR
+115,bfba69e39008470c8a97c6f245eb46d1,2018-05-02 07:20:49,online_store,cat,reseller,40571.13,20,50-100,1,1,CE City,CE
+116,8e300b5b3d0f401784a0d0303fac56b4,2017-12-17 23:44:43,offline,shark,manufacturer,36876.96,9,20-50,0,1,Sao Paulo,SP
+117,40c40d62610042dab8e62c3983020481,2018-03-14 01:46:44,offline,eagle,other,5914.86,37,1-5,1,1,Rio de Janeiro,RJ
+118,198226d0aa6749daabf3bb5b66866aa1,2018-02-10 03:45:44,online_store,eagle,reseller,11029.2,196,50-100,0,0,Sao Paulo,SP
+119,029d6027b42e45d9ae9aa8e375be8f62,2018-03-07 13:00:10,online_store,wolf,reseller,16472.34,192,100-500,1,0,Belo Horizonte,MG
+120,e829dc0652a940dc839f44093c5208a9,2018-01-06 20:48:30,online_store,eagle,reseller,5535.88,64,20-50,1,1,Sao Paulo,SP
+121,6341be1149794877b4325529c65b2e43,2017-12-13 10:04:43,other,shark,reseller,19342.06,51,100-500,0,0,Sao Paulo,SP
+122,6971488176f64f3f923b58ed53ed510a,2017-10-27 05:57:14,offline,eagle,reseller,101044.04,185,5-20,0,0,Sao Paulo,SP
+123,82a93351ad704a14838fc7e36d01826e,2018-05-16 18:18:46,offline,wolf,reseller,1144.9,96,100-500,1,1,Porto Alegre,RS
+124,1c891a699078494fb4a32bc11d4c8e48,2017-11-16 17:28:03,industry,eagle,reseller,17996.13,35,5-20,1,0,Rio de Janeiro,RJ
+125,644ca81db2c244b495cf1edc2b20331d,2017-08-09 04:58:55,other,shark,reseller,788393.64,85,20-50,0,0,Belo Horizonte,MG
+126,05ba560e12c348439f00772cf588567a,2018-05-25 00:56:37,industry,wolf,reseller,10566.86,143,100-500,0,0,BA City,BA
+127,c59f85cb5753420fac9abd47ac55f568,2017-06-20 22:34:37,online_store,eagle,reseller,8380.96,6,1-5,1,0,Porto Alegre,RS
+128,43ab8133fb6747b7a5d39956f5201585,2018-05-26 03:49:17,online_store,eagle,reseller,34811.72,37,1-5,1,0,Rio de Janeiro,RJ
+129,a21629a5ded84ae6a4998ffccd333800,2017-08-24 12:48:43,online_store,shark,manufacturer,35216.53,99,1-5,0,0,CE City,CE
+130,ecceb417787c4a9c8ecd5fb6384f3f39,2018-01-30 04:35:40,offline,eagle,manufacturer,57377.62,86,1-5,1,0,Rio de Janeiro,RJ
+131,7f9b42a893794dad8249083f07977fcb,2018-06-03 20:12:15,reseller,eagle,reseller,54067.53,7,20-50,1,1,Sao Paulo,SP
+132,84572c8b4cdb4e6bb8b34443d5bcefc5,2017-08-19 08:45:26,reseller,cat,manufacturer,3941.61,108,1-5,0,0,CE City,CE
+133,b16a3738817a4d4bbc6b3474b0163267,2017-08-03 17:05:51,online_store,shark,other,32507.31,37,100-500,0,1,Sao Paulo,SP
+134,3a25fa7b82b24e0998c72b378b59de6f,2018-03-22 10:17:25,online_store,wolf,manufacturer,6311.94,30,100-500,0,1,Rio de Janeiro,RJ
+135,f96f323b2b4743e9a870ba4371e49538,2017-12-02 13:04:44,industry,cat,reseller,2724.89,66,50-100,1,0,Sao Paulo,SP
+136,e25d9a7717184528a4628e4fd8d43c71,2017-09-17 17:47:07,manufacturer,wolf,reseller,5543.58,36,20-50,1,0,Rio de Janeiro,RJ
+137,ae8556e9f84443fe974f6ae76d41ca2c,2018-02-28 03:34:23,online_store,shark,manufacturer,4886.29,9,50-100,1,1,Rio de Janeiro,RJ
+138,209c6d048c5141bfbd16f488cf9883d1,2018-03-24 13:04:33,online_store,wolf,reseller,62700.23,26,20-50,0,0,Sao Paulo,SP
+139,5c8cf440e60a430fb8c14438c9e64480,2017-08-24 07:53:43,reseller,shark,manufacturer,7825.09,50,20-50,0,0,Rio de Janeiro,RJ
+140,8bbd3a0836b2490b8500c2ab8e64ee0a,2017-06-20 18:54:13,reseller,wolf,reseller,36677.86,159,20-50,0,1,Curitiba,PR
+141,6525a31b7b514fb8a54996e71eda79a4,2018-06-09 10:52:24,online_store,cat,manufacturer,15785.54,57,20-50,1,1,Sao Paulo,SP
+142,27eb2af5e8ff4711a472e14dba633a8f,2017-06-14 09:55:54,online_store,cat,reseller,57388.55,75,500+,1,0,Sao Paulo,SP
+143,572de480324745df8594158c48b23115,2018-02-27 11:10:50,reseller,cat,other,116553.68,28,5-20,1,1,Sao Paulo,SP
+144,0cf3fbae3c334c2a8cee27e200bd9d40,2018-03-14 09:51:39,reseller,cat,reseller,6728.17,8,50-100,1,0,SC City,SC
+145,ed6c10c415bd42718b1bebb473a9467d,2018-02-06 10:38:55,reseller,cat,reseller,26677.07,68,50-100,0,1,Porto Alegre,RS
+146,26b185b1fc054fbdb69813c05a6eec26,2018-06-08 06:57:56,offline,eagle,reseller,30680.37,79,20-50,1,1,BA City,BA
+147,8b0414ff387641fe8a333811a8b1e99a,2017-09-15 03:07:53,online_store,cat,other,10598.37,17,1-5,1,1,Sao Paulo,SP
+148,3dc4f499af304c2c9b95d51dd2ca2a3d,2017-08-15 11:05:35,reseller,cat,manufacturer,5300.15,14,20-50,1,1,Sao Paulo,SP
+149,7ffe71ab1e3f48beb0855ebbd7467bd2,2017-08-28 17:15:49,manufacturer,eagle,manufacturer,61601.8,19,100-500,1,0,Sao Paulo,SP
+150,8aa96739653f4ffb9c7ea2a950b03c69,2018-04-04 21:17:29,industry,eagle,reseller,23506.95,108,500+,1,1,Sao Paulo,SP
+151,8b52a30214124b079ef812990fc450d1,2017-08-08 13:01:27,offline,cat,reseller,39610.96,5,1-5,1,1,Rio de Janeiro,RJ
+152,7aa5b4771016439396d8065e9d38dddd,2017-06-05 17:04:41,online_store,cat,reseller,1724.55,50,500+,1,1,CE City,CE
+153,c8238a30aff14d319d24843cff84d8ed,2018-06-16 08:09:26,online_store,cat,reseller,19618.44,126,20-50,1,1,Sao Paulo,SP
+154,cd9775f4a29844a0965ef1956e414ba7,2017-12-15 12:38:26,online_store,cat,reseller,1398.95,53,20-50,1,1,DF City,DF
+155,4e62e6f2baba401aab0797442e8aa7fc,2017-09-12 22:46:35,industry,wolf,manufacturer,1148.87,77,5-20,1,1,Sao Paulo,SP
+156,463b79c34b074fe8bc1ff864c9551030,2018-04-01 02:15:27,industry,wolf,reseller,77192.72,109,20-50,0,0,PE City,PE
+157,57314030fa374a348f29592a320ced36,2017-12-05 02:15:40,offline,shark,manufacturer,24769.57,46,20-50,1,0,Sao Paulo,SP
+158,24e7d45d169c412095d783972fabe4df,2018-05-26 15:12:47,reseller,shark,reseller,151768.15,94,20-50,0,1,PE City,PE
+159,29da6f642b5b4b0da4ab2babad83fca5,2017-08-07 19:03:17,manufacturer,wolf,reseller,2297.81,50,100-500,1,1,Sao Paulo,SP
+160,eb5a858b49c044a7ac4101a20b392e1b,2018-05-27 19:14:59,offline,wolf,reseller,18415.91,56,50-100,1,0,DF City,DF
+161,1b078f18ff76484fb0789ae60471ef39,2017-07-11 15:30:08,industry,cat,manufacturer,9012.09,33,20-50,1,0,Sao Paulo,SP
+162,79c4b09c504e49be88868234d2377a98,2018-05-31 13:31:01,offline,eagle,reseller,7099.11,84,5-20,1,1,Sao Paulo,SP
+163,0f0f01cf6c5b476c859919cb8c07275e,2018-04-07 10:17:00,offline,shark,manufacturer,23539.0,14,5-20,1,0,Rio de Janeiro,RJ
+164,4a72a0f373c64d8e8e9757bf3ccde6bd,2018-06-06 07:23:02,online_store,cat,manufacturer,9810.68,61,50-100,1,1,Sao Paulo,SP
+165,e96dce335e75481d8d9f41a7a729dde1,2018-01-31 02:27:00,online_store,cat,reseller,16192.81,19,50-100,1,1,Belo Horizonte,MG
+166,6dbb327e806c4864a096a11075152e57,2018-03-04 03:16:37,online_store,eagle,reseller,18740.52,70,20-50,1,1,CE City,CE
+167,5c573025f7c64e31ac835f6e9b213e32,2018-01-16 16:26:53,industry,cat,reseller,9609.49,6,20-50,1,0,Belo Horizonte,MG
+168,a3429eb804fc4f9e9ef149a68861b6d8,2018-01-14 12:37:00,other,shark,reseller,4088.81,151,20-50,1,1,Porto Alegre,RS
+169,beb60cef466d4523946b87e39897176f,2017-08-30 05:30:34,online_store,wolf,manufacturer,20269.59,70,5-20,0,1,Sao Paulo,SP
+170,0ac4fa77738449279d3ebd0840019ccf,2018-04-13 05:03:14,online_store,cat,manufacturer,2092.12,33,20-50,1,1,Belo Horizonte,MG
+171,7518ff46127a476db4330cf878471444,2017-09-29 23:59:31,industry,wolf,manufacturer,12969.39,24,50-100,1,0,Rio de Janeiro,RJ
+172,bf3bc23d13734809a156de7272a51a8f,2017-11-26 08:05:40,reseller,eagle,reseller,4690.25,147,50-100,1,1,BA City,BA
+173,3843866e86494587895a1135e0943045,2017-06-28 02:13:38,other,eagle,other,11686.15,115,20-50,1,1,Sao Paulo,SP
+174,84bcdc6267ef48a198dbd3a647348b5a,2017-12-05 08:49:38,online_store,eagle,reseller,17885.33,122,20-50,1,0,Belo Horizonte,MG
+175,827c656b076e490d9b302952f1b328cc,2017-11-24 19:31:57,online_store,cat,reseller,53209.84,17,100-500,1,0,Sao Paulo,SP
+176,f2a85df4edfb43a3ba2480d84376b646,2017-10-13 11:14:17,online_store,shark,manufacturer,5963.36,112,20-50,1,0,Sao Paulo,SP
+177,b4868aee9dce4a8ba58117ecf4b015f5,2017-07-22 06:39:52,industry,wolf,manufacturer,19039.76,62,50-100,1,0,Sao Paulo,SP
+178,d5c92037f56346f394933c35cee88e74,2017-11-19 19:35:59,manufacturer,eagle,other,22129.0,11,1-5,1,1,Sao Paulo,SP
+179,73cc5650ff084e3e9eca844b2f3307a7,2018-02-16 17:33:42,online_store,eagle,reseller,13188.61,57,50-100,0,0,Sao Paulo,SP
+180,db212991c6e442ff8f16dbd1897f08df,2017-07-18 15:31:30,online_store,shark,reseller,10156.63,129,20-50,0,1,Sao Paulo,SP
+181,0954866ef2974dddaf74b4dd718c7016,2018-05-14 16:19:01,reseller,shark,reseller,10553.2,52,20-50,1,1,SC City,SC
+182,3db7d4510d17487697df2e98febda8ef,2018-02-16 16:40:26,manufacturer,eagle,manufacturer,1727.22,51,5-20,1,0,Sao Paulo,SP
+183,5b6a200bb16d498083919848c907c9d7,2018-05-09 02:36:36,reseller,cat,reseller,8134.43,17,50-100,0,0,BA City,BA
+184,e29872c252464423874d101a0ce7990e,2017-11-28 14:55:48,online_store,eagle,reseller,56214.48,36,5-20,1,1,Sao Paulo,SP
+185,ebab299ff2ac45349d6c0f52e02f2835,2017-07-02 08:08:32,offline,cat,reseller,99971.52,104,20-50,1,0,Sao Paulo,SP
+186,61391974ba92431a890a7d2803d9a673,2018-01-21 12:27:53,industry,cat,manufacturer,3986.46,125,100-500,1,1,Belo Horizonte,MG
+187,f651469f7c6b4d22875b724749bb7e86,2017-07-06 16:16:41,industry,cat,reseller,21774.8,10,1-5,0,0,Rio de Janeiro,RJ
+188,f4de1b7a5b7940c282a2d0701eb212e4,2017-10-01 07:42:40,offline,cat,reseller,12046.62,254,20-50,1,0,Rio de Janeiro,RJ
+189,30df5cab33bc4ff3a8c7d60a87472521,2017-08-13 15:51:33,offline,eagle,other,8206.38,58,20-50,0,1,Belo Horizonte,MG
+190,dc71ab0bfe3042d3b6f4c8a062781b46,2017-10-29 07:41:40,reseller,eagle,reseller,10355.85,14,50-100,0,1,Sao Paulo,SP
+191,b1233f0299854bceb585854a2f3a08e5,2017-08-04 06:23:29,other,cat,other,17499.73,21,20-50,1,1,Belo Horizonte,MG
+192,a8448a65b35a486f9200ae2e7bb0d855,2018-05-24 18:41:05,online_store,wolf,reseller,19357.91,53,20-50,1,1,Rio de Janeiro,RJ
+193,dbc42ba31aaa415793171484c7904625,2017-09-29 07:55:11,online_store,eagle,reseller,19875.57,39,1-5,1,1,Sao Paulo,SP
+194,ebe297b77834465fa44584565c678fbb,2018-06-15 20:50:47,online_store,shark,manufacturer,28964.02,80,50-100,1,1,SC City,SC
+195,1fcdcc1ca891464b81866712e69a831b,2017-08-03 07:40:00,reseller,shark,reseller,31013.8,97,500+,1,1,Porto Alegre,RS
+196,8171a8a2cfd84abba45ac3428d72d945,2017-08-17 21:28:21,industry,eagle,reseller,8255.74,83,20-50,0,0,Sao Paulo,SP
+197,a4861a7e0d804c209a93762bedff6ac3,2018-02-27 09:51:51,reseller,wolf,manufacturer,7222.12,255,20-50,1,0,SC City,SC
+198,d55e768f7ba041f38c09e13c29c1acee,2018-05-28 17:58:18,manufacturer,wolf,other,9898.39,98,100-500,1,1,PE City,PE
+199,0de7f853acfa491bb9d8d7526b87cf2a,2018-03-23 15:44:23,online_store,eagle,reseller,4934.05,129,100-500,1,0,Rio de Janeiro,RJ
+200,63af2b51f75b4bf5be3b335f30b83e82,2017-08-13 11:31:15,offline,cat,reseller,14698.42,13,100-500,0,1,Sao Paulo,SP
+201,07827a6b825c4893841a134f1fd5b5b5,2018-03-18 05:56:05,online_store,wolf,reseller,32472.56,136,50-100,0,0,PE City,PE
+202,95fff634c89344ada68387a5e67b385d,2017-07-29 17:11:15,offline,eagle,reseller,20779.52,74,20-50,1,1,Sao Paulo,SP
+203,8361a8fd3e5c49fd8bc16ebd7d6c8fa0,2017-11-02 15:05:50,online_store,cat,manufacturer,12656.76,40,50-100,1,1,Sao Paulo,SP
+204,2e0ddac19c57481f90ce2a79b27c4812,2017-07-14 12:31:42,online_store,cat,reseller,78210.27,52,50-100,0,0,Sao Paulo,SP
+205,4996c2c9f6d144b9a0520e83f04390ea,2017-09-27 07:30:36,other,cat,manufacturer,40196.36,26,50-100,1,1,Porto Alegre,RS
+206,22bceef080724f17a8ea5ca40a70ba96,2017-08-27 23:12:48,industry,cat,manufacturer,5094.31,14,500+,1,1,PE City,PE
+207,275fd220e0f24aedb2f87fd713323abd,2018-05-25 22:28:34,online_store,wolf,reseller,2043.98,29,1-5,1,0,Belo Horizonte,MG
+208,0f9d1caa5be0446c9fb8047e371b2c24,2018-03-11 02:18:59,offline,cat,reseller,14415.86,8,20-50,0,1,DF City,DF
+209,7fa1b66aebe14404b459244ce5ac1b65,2018-04-01 19:33:58,online_store,wolf,manufacturer,38958.54,34,500+,1,1,Sao Paulo,SP
+210,438102a5749d4451bc8a63020c7a2fe5,2017-09-20 16:20:08,online_store,cat,other,12173.18,10,50-100,1,0,Sao Paulo,SP
+211,1ec16922dcb644fea476cd7d44fd88a1,2018-04-19 18:51:05,industry,wolf,reseller,10259.26,23,50-100,1,1,Belo Horizonte,MG
+212,7337f516a62045a58e8f851d7f989202,2017-09-11 10:18:44,online_store,wolf,other,61643.72,66,1-5,0,1,DF City,DF
+213,79d1517289c7456dace69edc04d89e0a,2017-12-12 14:04:02,other,eagle,reseller,10275.47,10,20-50,0,1,Rio de Janeiro,RJ
+214,192341bfb8c34d3eacdb9591b3346b6f,2017-11-11 10:23:10,online_store,eagle,reseller,22879.14,126,50-100,0,1,Sao Paulo,SP
+215,2c1cde54c09b495ba107d9884734f17f,2017-10-12 15:39:47,online_store,wolf,reseller,2565.47,88,50-100,1,0,Sao Paulo,SP
+216,08916a747b5d4eab87bf94be0ba636fa,2017-09-11 11:53:03,online_store,cat,manufacturer,3605.32,12,100-500,1,0,Sao Paulo,SP
+217,5128aaee764847978c7ce79b84bb8605,2018-04-04 21:00:09,online_store,cat,reseller,20008.24,21,20-50,1,0,Sao Paulo,SP
+218,7ad2cc4ff43c49399f4ff4b39250744c,2017-08-17 09:56:49,other,cat,manufacturer,19977.88,27,20-50,0,0,Sao Paulo,SP
+219,e7e1d51b6b9f486a80b2ac8f592e2035,2017-12-19 18:27:28,offline,eagle,reseller,8516.3,113,500+,0,1,PE City,PE
+220,9e8f759aca894f3d96f4bf1003af3914,2017-12-20 22:21:28,online_store,shark,reseller,13388.67,13,100-500,1,0,Rio de Janeiro,RJ
+221,d469f5ac65994f05a9b13eccdb52248a,2018-03-10 13:26:44,online_store,cat,reseller,30417.93,12,5-20,1,1,Belo Horizonte,MG
+222,8793f440974342d884e45649a0f7d865,2018-05-14 19:37:20,manufacturer,cat,other,17963.13,59,20-50,0,1,Sao Paulo,SP
+223,03712703fd8848b384fb891b9564d7a3,2017-10-19 10:15:46,online_store,eagle,reseller,44033.82,15,50-100,0,0,Sao Paulo,SP
+224,2870d2920e8146ff954793367b90ded1,2018-03-21 21:54:52,industry,wolf,reseller,7776.08,150,1-5,0,0,Belo Horizonte,MG
+225,4d5ccb610b52401e96be33dd659b78d5,2017-07-23 13:38:28,offline,wolf,manufacturer,2951.54,19,20-50,1,1,BA City,BA
+226,4c3f71e096484562b44dad7cd52a189c,2017-06-21 07:46:11,manufacturer,cat,reseller,17541.39,44,20-50,0,1,Rio de Janeiro,RJ
+227,d6702f7c34e542d1b92b56241fd11070,2018-02-05 11:17:55,online_store,cat,manufacturer,25778.26,55,50-100,1,1,BA City,BA
+228,a3628956bd7a4f6bb84124c26e82f97e,2018-01-28 16:20:38,online_store,eagle,reseller,1128.07,51,100-500,1,0,SC City,SC
+229,42578fc77e3b40e0b3b155b891a058dd,2018-03-17 02:07:03,industry,cat,manufacturer,4217.78,103,50-100,0,0,Sao Paulo,SP
+230,c06f6ef4130e4ee985be86f4ee14abc9,2017-07-21 23:00:34,online_store,wolf,reseller,5574.35,61,50-100,1,1,Sao Paulo,SP
+231,e6de3006d81e47d0a8c572139705dd83,2018-01-09 06:28:05,industry,wolf,manufacturer,16810.2,76,20-50,1,1,Belo Horizonte,MG
+232,10d253005fd34d22be0adf7d133669ba,2017-08-06 09:34:52,manufacturer,cat,manufacturer,15252.55,73,5-20,1,1,Rio de Janeiro,RJ
+233,14559d695d1e4140a6174e5c6b266aa7,2017-10-23 04:43:09,manufacturer,wolf,manufacturer,3442.48,35,5-20,0,1,Sao Paulo,SP
+234,e11aba726d364f2086adb125fbef99ff,2018-03-26 12:36:42,offline,cat,other,44243.04,88,50-100,1,1,Sao Paulo,SP
+235,46b1199098fa40c4838ea26ae8fde754,2017-06-27 03:33:45,online_store,cat,manufacturer,25705.68,28,50-100,0,0,Rio de Janeiro,RJ
+236,b739eef895e94d20ad64e4b7124fcc6b,2018-03-21 01:36:53,online_store,cat,other,19951.08,91,20-50,1,1,PE City,PE
+237,af1bd22caff8435eb1c60cf04e4cdade,2018-04-03 10:05:49,manufacturer,cat,reseller,15492.37,49,20-50,1,1,Sao Paulo,SP
+238,a7921ac5b88e4d05a719f0281cee51c0,2018-04-01 21:33:22,offline,cat,manufacturer,509.31,6,5-20,1,1,Sao Paulo,SP
+239,52dce1c275334fa1a473807d9c85d30c,2017-08-14 20:14:22,reseller,eagle,manufacturer,14943.66,36,100-500,1,0,Rio de Janeiro,RJ
+240,2a216485c636406092e07a75233bbe86,2017-12-21 13:40:53,industry,eagle,reseller,25835.1,38,100-500,0,1,Porto Alegre,RS
+241,8e4da29c912e421a9710e95b0083500b,2018-05-10 05:52:52,manufacturer,wolf,reseller,3641.58,10,500+,1,0,Belo Horizonte,MG
+242,58c7c9d0073147be9b17205e60312492,2017-10-06 11:16:13,manufacturer,shark,manufacturer,26337.77,115,100-500,1,1,DF City,DF
+243,47656f1f26dc41b1817a41e0bd4af2e6,2017-09-01 20:28:27,industry,cat,reseller,56159.58,145,5-20,1,1,Curitiba,PR
+244,94db957567954c94b6c57c067bce5658,2017-06-17 05:25:29,industry,cat,reseller,4998.44,17,20-50,1,0,Rio de Janeiro,RJ
+245,e48ad297dbd5406ab36c4690b7676aa8,2018-05-23 19:06:54,online_store,eagle,reseller,10701.59,320,100-500,1,1,Sao Paulo,SP
+246,36c1fb4390e94d47ab12a92cc1c6de5b,2017-08-08 07:41:40,industry,cat,reseller,2214.85,206,100-500,1,1,Rio de Janeiro,RJ
+247,353b3096fb0b43b5b0b3672841e9a970,2017-12-18 21:30:55,online_store,shark,reseller,26904.44,36,100-500,1,1,Porto Alegre,RS
+248,24b4cb39991d49158a5061b420daa4d5,2017-08-18 18:29:07,online_store,eagle,reseller,39101.5,7,100-500,1,1,SC City,SC
+249,6f530800869f467faea8d5c4d9c3d2c9,2017-09-29 12:14:26,industry,shark,reseller,24497.19,55,5-20,1,0,DF City,DF
+250,8d818f4666604ee49ca3e6912541c209,2017-12-26 01:57:31,online_store,eagle,reseller,5424.06,34,50-100,0,0,Belo Horizonte,MG
+251,2bd0ea1a02014da59fe90c60852ca163,2017-11-11 02:07:45,manufacturer,cat,other,27868.65,27,5-20,1,0,Rio de Janeiro,RJ
+252,0ee6c9ec1a334c96854130359c76389b,2018-01-13 05:31:22,offline,cat,other,12327.5,307,5-20,1,0,Sao Paulo,SP
+253,5da71b239fa643458766b3005775b176,2018-05-01 08:49:24,online_store,cat,reseller,1209.49,124,50-100,1,1,Sao Paulo,SP
+254,ad1e76c2c8ae4a4ca66e3fb733ee5bee,2018-04-26 17:24:13,online_store,eagle,reseller,2105.71,8,50-100,1,0,Sao Paulo,SP
+255,6289adc00aea4512a41143c17536e559,2018-04-10 01:57:40,industry,cat,other,26181.72,143,50-100,1,1,Sao Paulo,SP
+256,4aa09c67f6624bd08e091ca3f28f1870,2017-09-12 13:36:05,industry,shark,reseller,10214.87,7,50-100,1,1,Sao Paulo,SP
+257,906bf17a3353442d94237e3db90d103b,2017-12-29 19:05:18,online_store,cat,reseller,5641.9,44,20-50,1,0,Sao Paulo,SP
+258,7a43acebfb564d29889b97bb1c42cf00,2017-07-04 02:49:20,industry,eagle,reseller,8149.34,71,100-500,1,0,Belo Horizonte,MG
+259,47af97abbfea46eda844b6a139ef8598,2017-12-29 18:03:26,online_store,shark,reseller,2583.57,8,100-500,1,1,Rio de Janeiro,RJ
+260,4b18cf5d33a84a6c82d0116d9fd46bb3,2018-07-19 18:21:43,offline,shark,manufacturer,23732.87,61,5-20,1,1,Belo Horizonte,MG
+261,8501c27753a84628b33ae7638cb69f21,2017-12-17 22:02:14,manufacturer,eagle,manufacturer,8395.23,33,50-100,1,1,Rio de Janeiro,RJ
+262,473948121d524a2e90fc5839b1eb9320,2017-12-10 16:16:09,industry,shark,other,9817.93,18,500+,0,1,Sao Paulo,SP
+263,fe0d45027fe44ce99d01b1947e4d1e37,2018-02-06 12:30:51,industry,cat,manufacturer,5157.13,34,20-50,0,1,DF City,DF
+264,0e63390c10254727aea11bed0b416934,2018-02-21 17:39:39,industry,wolf,manufacturer,5454.94,164,1-5,1,1,Sao Paulo,SP
+265,3db1c42aefd548ed8aa3e921dcc78c26,2018-05-16 19:21:14,other,shark,reseller,27850.49,11,5-20,1,0,PE City,PE
+266,a99b200c1d974525b4a29f234016012b,2018-03-20 07:27:34,industry,cat,reseller,5877.63,95,5-20,0,1,Sao Paulo,SP
+267,7448522b82854912876c6d43a31b4cd1,2018-02-13 07:01:09,offline,wolf,manufacturer,2454.09,7,20-50,1,1,Rio de Janeiro,RJ
+268,814e6b5a991b4593a8e618a7db4fb0fc,2018-03-03 18:53:55,online_store,eagle,manufacturer,4712.92,88,5-20,1,1,Sao Paulo,SP
+269,44339c8fe4474f128d70df2744a969d6,2017-12-10 09:24:38,reseller,shark,reseller,189792.05,71,1-5,1,1,Sao Paulo,SP
+270,9e83ef5ebbdf4c099095f65072bb47c8,2017-10-09 21:31:44,online_store,cat,reseller,5642.95,226,1-5,1,1,Rio de Janeiro,RJ
+271,e55aeb07b32143849b8ddda1cdfe8ea4,2017-06-25 20:43:30,reseller,wolf,manufacturer,12173.55,106,100-500,1,0,Porto Alegre,RS
+272,b79a2c7d953a430481ca524b4212263d,2018-05-13 21:22:37,online_store,shark,reseller,20056.32,28,100-500,1,1,Sao Paulo,SP
+273,4718c7174b6b422da78ce7133bc2798f,2018-02-10 07:50:13,industry,eagle,reseller,3528.5,13,5-20,1,1,Belo Horizonte,MG
+274,409e713ae5754eb495ed95b09d7d0528,2018-06-09 17:13:56,reseller,wolf,manufacturer,6498.92,243,1-5,0,1,Sao Paulo,SP
+275,387c908b0951414b952046b005367b2e,2017-07-08 05:22:47,industry,cat,reseller,4610.23,84,100-500,0,0,Sao Paulo,SP
+276,8c4e42b5b9664443b360cd92714a8702,2017-11-10 00:23:48,online_store,cat,manufacturer,246402.51,45,5-20,1,0,PE City,PE
+277,10ff4d140cd24d7ea191bc67ef60b5b5,2017-10-01 04:30:59,online_store,eagle,manufacturer,34028.6,23,50-100,0,0,SC City,SC
+278,4ebd6e2586dc449b9c86aa0994b643f8,2017-10-14 18:18:06,offline,eagle,reseller,19818.11,88,20-50,1,0,Rio de Janeiro,RJ
+279,5df88f98b943417e9dcde1256d1f534a,2018-01-20 09:24:51,industry,eagle,reseller,13766.09,158,5-20,1,1,Sao Paulo,SP
+280,6d387ba8d40447daacc15f3f0d3d515c,2017-12-29 20:55:14,manufacturer,cat,reseller,32817.7,12,50-100,1,1,Sao Paulo,SP
+281,b64de9ad36374aa99d61167cb565be85,2017-06-14 17:20:31,reseller,eagle,reseller,2267.42,145,5-20,1,1,DF City,DF
+282,45c0e6cb9e944ea1b27f4a6f72c28cb8,2018-04-10 15:05:17,online_store,eagle,reseller,3903.66,38,20-50,1,1,Sao Paulo,SP
+283,81a6280838794b6594615bf0f5461f76,2017-08-14 22:42:39,manufacturer,wolf,reseller,7121.42,116,20-50,1,1,Curitiba,PR
+284,3fc0d3dd333f41de9c69876ce134126f,2018-04-30 05:00:42,online_store,eagle,reseller,68573.26,51,50-100,0,0,Sao Paulo,SP
+285,181f913b98b1496684adb078cf86c59c,2018-03-07 10:50:54,offline,eagle,other,7357.95,99,20-50,1,1,CE City,CE
+286,0b8cd23daa8b4113979e7f0ebabb8083,2017-11-05 21:31:47,online_store,shark,other,24578.19,67,5-20,0,0,Sao Paulo,SP
+287,74c70b9d19994c379e45f9baf03be8e7,2018-03-28 11:09:21,manufacturer,eagle,reseller,20878.97,16,5-20,0,1,Sao Paulo,SP
+288,71f1590a5a2742fb93b411e88dc3f52f,2018-06-05 19:12:07,online_store,shark,reseller,63196.78,21,5-20,1,1,Belo Horizonte,MG
+289,a132c32b112b4691bd1c4e613be815a9,2017-10-28 20:43:27,manufacturer,eagle,reseller,12914.3,46,50-100,0,1,DF City,DF
+290,23083d13a2754f7291878f48dafa8f68,2017-10-02 14:18:52,online_store,wolf,reseller,4615.6,19,50-100,0,1,CE City,CE
+291,5fef20af24874d07aee0fd78c6db3401,2018-02-12 07:45:24,online_store,eagle,manufacturer,25071.87,5,5-20,0,0,Porto Alegre,RS
+292,2a74f4a0feb440d9bb401df800048490,2018-02-01 05:40:59,online_store,wolf,other,7097.66,94,50-100,1,0,Curitiba,PR
+293,20a897eb2b2e4e6189f5001626eaf7ff,2018-02-05 21:33:25,reseller,eagle,reseller,8283.39,113,5-20,1,0,Belo Horizonte,MG
+294,84a0821bae864ec0b4478ef4206d87ab,2018-02-17 00:26:24,other,eagle,reseller,17488.59,130,5-20,1,1,Curitiba,PR
+295,942b95490e3c423488a48a042bd346af,2017-12-16 07:02:27,manufacturer,cat,reseller,3899.13,11,50-100,1,1,SC City,SC
+296,3865b1783cbc476eb72c74c7145e108e,2018-06-09 05:37:17,online_store,eagle,manufacturer,25453.68,71,50-100,1,1,Rio de Janeiro,RJ
+297,7b392ef4d01f4d6f9ece192f4b240ff0,2017-08-06 00:58:13,online_store,shark,manufacturer,51771.72,33,50-100,1,0,Belo Horizonte,MG
+298,4277e12c31684f3a9d7acf4089d21846,2018-04-12 04:28:54,other,wolf,manufacturer,684.02,9,500+,1,1,Rio de Janeiro,RJ
+299,0ce1403374194be48556260fd991bbe8,2018-02-25 16:37:12,reseller,wolf,manufacturer,40415.85,118,20-50,1,0,Belo Horizonte,MG
+300,7bec6d447a9d42d794c6740908ded437,2017-09-10 03:12:01,online_store,cat,reseller,10767.55,11,1-5,1,0,BA City,BA
+301,f4a6e0f9e0f0400a9d52c008259612f9,2017-08-05 10:50:07,online_store,shark,reseller,5479.72,74,20-50,1,1,Sao Paulo,SP
+302,290080bd7f3e40c3bc80db3c2f4023d6,2017-11-13 23:39:53,manufacturer,shark,other,5879.89,93,20-50,1,1,Sao Paulo,SP
+303,049b538ee1e94c2aadc272e2eb49369a,2017-09-20 06:06:09,online_store,eagle,reseller,35539.11,10,1-5,1,1,Rio de Janeiro,RJ
+304,e04a524a67f24c57b6109fd2277368fd,2017-11-04 23:11:43,online_store,cat,reseller,3870.12,57,100-500,0,0,Sao Paulo,SP
+305,0b93fc5f2a4747fba069a62be7452afd,2018-02-11 21:09:51,online_store,eagle,reseller,107641.12,15,500+,0,1,Rio de Janeiro,RJ
+306,97af2a731d4b4239ad66f98c198db465,2018-04-03 11:11:05,offline,shark,other,14236.34,63,20-50,1,1,PE City,PE
+307,4ead67342eca40a5839323952b15b977,2018-06-08 19:43:19,offline,cat,other,53915.74,6,1-5,1,0,Belo Horizonte,MG
+308,bc13945091f14d298fd796f404845e00,2017-06-22 11:47:54,offline,eagle,reseller,39858.4,8,20-50,1,1,SC City,SC
+309,698df05394974a87a38bcdc219536903,2018-03-14 19:38:27,offline,cat,manufacturer,16554.34,6,20-50,1,0,Sao Paulo,SP
+310,fb7bd389ea8f4a8cbc68ff4da6f1c35a,2017-08-24 05:04:14,reseller,cat,other,9973.14,22,20-50,1,1,PE City,PE
+311,ffcfcc114cbc496c9c5da224e1f42ade,2017-09-27 04:17:30,offline,eagle,manufacturer,6584.71,56,100-500,1,1,Belo Horizonte,MG
+312,5c1504a154114c56a0655a45a738d6b9,2017-12-11 05:42:00,online_store,cat,manufacturer,8436.19,219,20-50,0,0,Sao Paulo,SP
+313,2f4924dde1ca4823b131142113515206,2018-01-11 19:29:27,reseller,shark,reseller,6588.02,14,5-20,1,1,Belo Horizonte,MG
+314,9b259c2648ac45dd8f2e835de96d179a,2017-11-17 22:55:04,online_store,shark,other,84093.33,22,100-500,1,1,DF City,DF
+315,338bdc943f6d43d0aa5be876d61f138d,2018-07-03 08:15:46,manufacturer,wolf,manufacturer,9805.81,23,1-5,0,1,Sao Paulo,SP
+316,918aae5a8ff44219a2352ab801475f04,2018-02-10 04:10:52,online_store,eagle,reseller,33887.8,15,50-100,1,0,Belo Horizonte,MG
+317,b8009aaf89f24e80a44d2f396c59e267,2017-10-14 19:33:54,reseller,eagle,reseller,120687.7,12,5-20,1,0,PE City,PE
+318,e437c127305c4558b77f454e30745ac8,2017-11-17 00:19:18,online_store,cat,reseller,3444.04,32,20-50,1,0,Sao Paulo,SP
+319,60dbc1c8652044938ac7df135e5a70c9,2018-05-27 17:11:56,online_store,wolf,reseller,30055.39,23,50-100,1,1,Belo Horizonte,MG
+320,e2f4b4b18317420baea0d073e43f4ca7,2018-03-31 06:07:07,reseller,cat,reseller,214846.43,8,1-5,1,0,Rio de Janeiro,RJ
+321,42d40ee0912147aa885be649ab1cc837,2018-03-06 18:00:00,offline,eagle,manufacturer,7723.02,54,5-20,1,1,Sao Paulo,SP
+322,d5f4b73d53ee4a4c88901baf860323b8,2017-12-03 10:16:11,reseller,cat,manufacturer,15017.73,34,20-50,1,1,Belo Horizonte,MG
+323,468f01a853ff4a068bda23445cc2ab06,2018-03-13 02:19:01,manufacturer,cat,reseller,33148.91,123,20-50,0,1,Sao Paulo,SP
+324,c98910ddcea443b4b436e20fd8cb80b1,2018-03-17 01:09:27,reseller,shark,reseller,44915.14,5,1-5,0,0,Curitiba,PR
+325,5dc05f88ac6a4365afa8b3ebfc443b61,2018-02-28 04:17:01,online_store,cat,reseller,11837.01,67,5-20,1,1,Sao Paulo,SP
+326,02b5e5dde4e842a39937b1fea4d65a6d,2017-07-22 11:59:40,reseller,wolf,reseller,12094.67,30,5-20,1,1,Sao Paulo,SP
+327,f03c838c49834effa568938f59c249ba,2017-12-07 02:40:48,offline,eagle,manufacturer,22584.24,8,1-5,1,1,Rio de Janeiro,RJ
+328,25e4246953cc44078872fc4ebc091385,2018-04-01 09:58:45,online_store,shark,manufacturer,3563.18,267,1-5,0,1,Sao Paulo,SP
+329,7e5b5cc1affc41cd892fdcc648df09f0,2018-05-19 17:22:54,manufacturer,wolf,manufacturer,5312.87,61,20-50,1,1,Sao Paulo,SP
+330,eec9d8a0f7c0425bacc8f19256b5401a,2018-03-27 21:12:48,online_store,wolf,reseller,23613.75,68,20-50,1,1,SC City,SC
+331,f52acad66eaa40339ba4049dc4d154cf,2018-06-12 06:59:26,offline,eagle,reseller,63266.64,7,1-5,1,0,PE City,PE
+332,b4057b31d24444b7aa0230727e8b3ee3,2017-11-19 04:27:46,reseller,eagle,other,5439.41,11,100-500,1,1,BA City,BA
+333,6d5d95ea828d452f82cd3767267c406e,2018-01-25 04:39:19,offline,wolf,reseller,39484.75,45,20-50,1,0,Rio de Janeiro,RJ
+334,64e53016fcc442cfbf6850aa90b1ecd3,2017-09-01 18:30:05,offline,wolf,reseller,2455.56,47,50-100,1,1,BA City,BA
+335,0cd153af48af4d6c94635d261344aecb,2018-05-20 21:56:31,offline,shark,manufacturer,11027.76,36,100-500,0,0,PE City,PE
+336,d0999524dbfb40a29e46133daf53daa2,2017-06-21 00:35:15,other,shark,manufacturer,12359.18,43,50-100,1,1,Sao Paulo,SP
+337,5c106274817f4be0a17ed41537ca7418,2018-04-27 23:07:28,industry,wolf,reseller,34149.85,31,5-20,0,1,Sao Paulo,SP
+338,c535f7b0338e482ea75d9148f80b2a82,2018-02-04 05:51:39,industry,shark,reseller,23883.75,49,20-50,0,1,Sao Paulo,SP
+339,8622ea951b2343dea66a16ef1aa55b74,2017-09-06 01:19:36,online_store,cat,manufacturer,18671.88,54,20-50,1,0,Rio de Janeiro,RJ
+340,1824ffad51ea4d5fb2204b4b1755349c,2017-10-27 00:22:11,industry,eagle,reseller,39644.58,29,5-20,0,1,DF City,DF
+341,4a168a7f8bcc493198ca25fa6c0b054a,2017-10-02 19:28:36,manufacturer,cat,manufacturer,23211.29,33,20-50,1,1,Belo Horizonte,MG
+342,2f3ce9735f6a421cb3fe9a52ccd672d4,2018-02-28 02:56:37,manufacturer,cat,reseller,139181.41,32,5-20,0,1,Belo Horizonte,MG
+343,4203a3cf2bec4852bf4b498e847d4c06,2017-12-06 02:02:32,offline,eagle,reseller,4510.03,72,5-20,0,0,Sao Paulo,SP
+344,e256a7722da544a5a25cbebd1b0b42d2,2018-01-22 05:25:12,online_store,shark,manufacturer,15421.49,38,20-50,1,1,Sao Paulo,SP
+345,98b3af1002114182b4c76c812781339d,2017-10-25 06:30:25,offline,cat,manufacturer,1037.15,114,20-50,1,0,Rio de Janeiro,RJ
+346,dea3b537266544a4a3a1609dbb85a0ca,2017-12-08 09:01:19,industry,wolf,reseller,188305.49,76,500+,0,0,DF City,DF
+347,f07c34063f724da8987b4b610f7a8ca9,2018-02-20 01:13:05,industry,eagle,reseller,35821.58,46,5-20,0,0,Sao Paulo,SP
+348,e5d35e147ffb465b9499cf3aca5b35dc,2017-08-19 03:23:02,offline,wolf,manufacturer,11932.13,9,5-20,0,1,BA City,BA
+349,6609a1983607470c9c45bc730dd8bf55,2018-01-24 03:57:45,offline,eagle,other,30897.3,51,1-5,1,1,Sao Paulo,SP
+350,645ea54437f841ef8fd2471fe8b7c980,2017-12-04 03:02:50,offline,cat,manufacturer,3950.7,79,20-50,1,0,Belo Horizonte,MG
+351,9af43a82ec7f4132af5d936d135f05e6,2017-07-21 01:23:21,online_store,wolf,reseller,43694.94,9,1-5,0,1,Belo Horizonte,MG
+352,39dae0cd28064b3985fd90f307d24389,2017-11-10 17:03:11,reseller,cat,reseller,19832.95,7,100-500,1,0,SC City,SC
+353,3dd77db5934a41349600c8f68c6a025a,2017-08-09 01:03:39,online_store,cat,reseller,3937.12,50,100-500,0,0,Sao Paulo,SP
+354,46069778f82641eeb349c6b7b40dfa9e,2018-04-03 17:33:57,offline,shark,reseller,12533.31,12,20-50,1,0,Sao Paulo,SP
+355,4a3449e591ff4a4996f58795befd5f2d,2017-07-25 09:59:34,reseller,cat,reseller,7355.15,52,1-5,1,1,Sao Paulo,SP
+356,ee088fdf69154f8a9a8c99f0ad5d6e38,2017-11-16 15:11:26,online_store,cat,manufacturer,18277.42,32,500+,1,1,DF City,DF
+357,b1ba5c2b9f7e43f788333c08f9582bac,2018-05-15 00:36:33,online_store,eagle,reseller,23190.33,25,50-100,1,0,Sao Paulo,SP
+358,ab6d971364174c9fb8d076ca34e10391,2018-02-08 00:18:26,online_store,cat,manufacturer,2763.23,24,500+,1,0,Sao Paulo,SP
+359,12719478312b428b81c2d8562cf241a4,2017-06-23 12:44:16,industry,eagle,other,85213.16,8,20-50,1,0,Rio de Janeiro,RJ
+360,5bfc05c30f60401ab08d14da4162d645,2017-10-10 07:23:45,offline,eagle,reseller,15307.5,105,5-20,1,0,Rio de Janeiro,RJ
+361,7d12210cb3d44e9f900e5de3f7d6a71a,2018-07-01 23:12:46,online_store,wolf,reseller,7586.38,28,5-20,1,1,SC City,SC
+362,3a39acd9372c4732a65df3249c6b8333,2017-09-02 08:38:26,other,cat,manufacturer,16590.66,20,5-20,0,1,DF City,DF
+363,4bb59b95c6474506ab521c9cce2525bb,2017-10-31 05:08:17,industry,shark,manufacturer,14689.44,60,100-500,1,0,Rio de Janeiro,RJ
+364,1ba15c33a1844940a2e2cb8f2d3540e5,2017-07-10 21:17:47,online_store,eagle,other,60962.68,142,20-50,1,1,PE City,PE
+365,588fcc0407a24ab7ad8a4dc290edab10,2018-01-24 20:07:50,online_store,shark,reseller,16222.43,96,1-5,1,0,Porto Alegre,RS
+366,edca59a31a884382ab2ed4dd2abdd6f7,2018-06-23 18:56:11,manufacturer,wolf,reseller,5192.33,56,5-20,0,1,Sao Paulo,SP
+367,85023e5e056944c1ae2d7649ee016ed3,2017-07-17 23:19:06,industry,eagle,manufacturer,1675.91,30,50-100,0,0,PE City,PE
+368,e286e4f3209c4b24b2569abd992cc505,2018-02-05 15:38:11,online_store,wolf,reseller,10830.98,114,20-50,1,1,Belo Horizonte,MG
+369,89445444e35d48189da6244df73294b5,2018-06-01 05:09:22,offline,cat,reseller,50754.27,58,20-50,1,1,Sao Paulo,SP
+370,40efeb989c23432e879e6af9c02d8964,2018-04-23 02:44:23,offline,shark,manufacturer,30659.01,131,5-20,0,1,Porto Alegre,RS
+371,6752145f27024006b9a095176d98add7,2018-05-26 21:09:37,other,eagle,manufacturer,31137.82,6,1-5,1,1,Sao Paulo,SP
+372,0449ac426a9c478f8d6c3f4c239f2f16,2017-12-29 13:36:02,offline,eagle,reseller,14711.48,27,20-50,1,1,Sao Paulo,SP
+373,4245a51a3eec43b682896ee7aec26b7c,2017-09-30 17:34:54,manufacturer,eagle,manufacturer,134144.05,54,50-100,0,1,Porto Alegre,RS
+374,aaa02836b8a144a8b422f9827da8b33f,2018-01-19 16:01:01,offline,cat,reseller,65745.82,51,500+,1,1,SC City,SC
+375,204fa33de754401182e4f5d98703b3f5,2018-04-18 23:21:20,online_store,eagle,reseller,3622.89,6,100-500,1,0,Porto Alegre,RS
+376,c66917e6e27e45be8dab4881b7b37f5f,2017-11-09 12:19:16,industry,wolf,reseller,73577.59,22,20-50,1,0,Sao Paulo,SP
+377,4bf2ecc253584437bc1bb76d380a4d46,2017-12-02 14:44:14,online_store,shark,reseller,924.38,84,20-50,1,1,DF City,DF
+378,be7050f785584534a4cc0676844a44e7,2018-02-10 16:25:27,online_store,shark,reseller,18118.06,31,20-50,0,1,Sao Paulo,SP
+379,642d027cd7164bf69d8659829112a77a,2018-05-03 07:42:15,industry,cat,reseller,37156.35,10,20-50,0,1,Sao Paulo,SP
+380,13d1d091430c4df7b3a2eeef0125dfb0,2018-01-18 20:28:36,reseller,shark,manufacturer,6892.44,17,5-20,1,1,Sao Paulo,SP
+381,9b2dc676648e4d1c9e8b8ab546becfcb,2017-10-16 04:18:50,online_store,cat,manufacturer,5976.86,11,50-100,1,1,Sao Paulo,SP
+382,deced16151ed4b67bf4a4c27efbc3e4e,2017-11-07 10:14:38,online_store,shark,reseller,29696.37,81,5-20,1,1,Sao Paulo,SP
+383,cca08dbe39bf4ca2b15de9127da77b19,2017-08-17 20:35:29,industry,eagle,manufacturer,723.32,74,1-5,0,1,Belo Horizonte,MG
+384,4137f6326e4f4a26bf248c049373a1c1,2017-09-17 20:26:44,industry,cat,reseller,5593.44,22,5-20,1,1,BA City,BA
+385,8672024435ed45178446d3156cc61581,2017-07-10 19:56:45,manufacturer,eagle,manufacturer,10542.54,62,1-5,0,1,CE City,CE
+386,6522400938b94e4f83ba5674b6653401,2018-07-06 10:52:07,online_store,cat,reseller,29847.65,9,50-100,1,0,Curitiba,PR
+387,6336a9a377df489186262534b1500c1f,2018-05-24 03:12:30,offline,eagle,reseller,12192.48,148,20-50,0,1,Rio de Janeiro,RJ
+388,62555478ffbd4a038adf1c0389c7bca9,2017-08-09 21:51:07,offline,cat,reseller,62831.81,37,100-500,1,0,Porto Alegre,RS
+389,98aaca71f2e74d35bdca5ecb4dc09c5c,2017-12-25 14:59:06,online_store,shark,reseller,10892.1,5,5-20,1,1,SC City,SC
+390,5707a072b8c146bba4e0d7b4338c4fac,2018-06-05 09:50:30,online_store,cat,reseller,1561.82,28,20-50,1,1,Rio de Janeiro,RJ
+391,f0533ac9ad0447228bf6f1676e5f8a40,2018-06-03 23:24:13,industry,shark,reseller,10349.94,62,500+,1,0,Curitiba,PR
+392,1431416fe9754e3f974d382d5c252a1e,2017-10-11 09:39:16,online_store,cat,reseller,9448.49,61,50-100,0,1,Rio de Janeiro,RJ
+393,604b66971ebf4d9690752e185c6f2b80,2018-04-13 15:32:41,online_store,cat,reseller,21294.57,70,5-20,0,1,Sao Paulo,SP
+394,dceb7b6257304b37a9f9728f6a907cee,2017-12-07 12:19:48,offline,cat,other,13181.17,108,50-100,1,0,Rio de Janeiro,RJ
+395,89aae99a556a489a9a76775674a9c431,2017-12-16 11:35:50,reseller,cat,reseller,167431.27,39,5-20,0,0,Belo Horizonte,MG
+396,0c74eeb321da4b2a907965baf59147c7,2018-06-25 00:01:03,online_store,eagle,reseller,13373.77,24,1-5,1,1,Porto Alegre,RS
+397,2fa8557ae5f44622a2ab81adab0c16dd,2018-01-26 07:32:10,manufacturer,wolf,reseller,5378.71,47,20-50,0,1,Sao Paulo,SP
+398,6c0bea896f6b4bd18fb94ed5180aa790,2017-06-19 14:41:04,online_store,cat,reseller,37304.99,28,20-50,1,0,Belo Horizonte,MG
+399,2162fdefe36a426cbbcd662b12b7aa02,2017-10-24 14:20:43,industry,eagle,reseller,1825.25,24,5-20,1,1,PE City,PE
+400,0651e4a56ba04b67a2cedb4e9c572f51,2018-03-24 09:57:19,offline,cat,reseller,31127.34,60,20-50,1,1,CE City,CE
+401,41970702ef154853bca27ed017529778,2017-12-18 13:14:20,reseller,eagle,manufacturer,33003.64,107,5-20,1,0,Sao Paulo,SP
+402,b47513f968da4be0b97c33a516e35829,2018-03-23 18:37:05,reseller,cat,other,26184.25,17,1-5,0,1,Sao Paulo,SP
+403,d2909b79f54b431dbe5ae99b8f9e9183,2018-05-12 03:23:14,online_store,eagle,other,22355.94,83,20-50,1,0,Belo Horizonte,MG
+404,77155da54d324c38ad37173033d45deb,2018-05-11 03:45:46,reseller,cat,reseller,40966.69,54,50-100,1,1,Sao Paulo,SP
+405,2af7f54b146e4cb19ee6d875c4b3e278,2017-12-03 13:09:34,online_store,cat,reseller,8958.45,8,5-20,1,0,Sao Paulo,SP
+406,bdd1fec4ea1f4959856fd5ae5a90193b,2018-01-01 04:19:10,online_store,eagle,reseller,13863.56,18,5-20,1,0,Sao Paulo,SP
+407,7f2f6ebd2a0049a69b81d794c094b00a,2018-06-03 04:42:36,industry,shark,manufacturer,2352.28,172,5-20,0,1,Curitiba,PR
+408,595d9e7d8bbc490b82397be54ebadd50,2018-06-04 21:42:09,industry,wolf,reseller,6273.16,225,100-500,1,1,Curitiba,PR
+409,3a61dfdb5faf4289939ebbc84c6742ac,2018-05-18 01:34:42,other,cat,reseller,21906.33,101,20-50,1,1,Rio de Janeiro,RJ
+410,5b4231ca94224fafaf0a5168b6d8e733,2017-10-10 00:26:32,offline,wolf,manufacturer,28091.41,78,50-100,0,1,Rio de Janeiro,RJ
+411,08b90b01e0eb4f5aa4b89573fb9ebe2a,2017-09-03 20:42:34,industry,cat,manufacturer,12033.17,27,100-500,1,1,Belo Horizonte,MG
+412,db55c491e3a0471280d746f1c8e058b1,2017-10-26 14:35:19,industry,cat,other,19394.93,35,5-20,1,1,Sao Paulo,SP
+413,c289e92911ac4bdca2b4c4c2e37fa4ca,2017-10-11 13:16:52,online_store,cat,reseller,1626.0,68,1-5,1,1,Rio de Janeiro,RJ
+414,570166dd5b864d3dad17b27fd924a9f6,2018-04-19 20:20:39,online_store,cat,manufacturer,7213.31,31,20-50,0,1,Sao Paulo,SP
+415,e3fe94f46a514514883fddb5646c831b,2017-11-27 13:53:18,offline,wolf,other,6437.67,164,100-500,0,1,Rio de Janeiro,RJ
+416,dd4518baba81484ab00685ac4aef85af,2017-11-28 21:28:42,industry,wolf,reseller,16083.97,26,500+,1,1,Sao Paulo,SP
+417,a5af88ed5cd94eb1a2a75f43155a81a5,2018-07-09 17:05:56,online_store,eagle,reseller,36359.41,9,20-50,1,0,Belo Horizonte,MG
+418,4ee12640043840aeab18b06152d32e61,2017-09-20 02:06:21,online_store,eagle,reseller,26883.73,102,20-50,1,1,Belo Horizonte,MG
+419,d37587c4f6fb4e779469ccc77583e57e,2018-03-23 05:32:53,offline,cat,reseller,3399.78,9,20-50,1,1,Sao Paulo,SP
+420,3845ea8e731344d899ac8685f33aeb22,2017-12-07 22:29:58,online_store,cat,reseller,63941.84,35,20-50,1,0,Sao Paulo,SP
+421,e3e580d1b0d144ab9626387a1ccac355,2018-01-21 22:23:49,offline,eagle,reseller,26806.05,39,5-20,1,1,Sao Paulo,SP
+422,fde4043e7a1843c781c2c4ec3fb08c6e,2017-08-24 18:47:41,online_store,wolf,reseller,35436.86,37,5-20,0,1,Belo Horizonte,MG
+423,1a8f662cf3ff47dd98992a40a41738e9,2018-01-29 07:38:49,online_store,wolf,manufacturer,1518.15,174,20-50,0,1,Sao Paulo,SP
+424,2fbc974fd5674e7b857de9053286e483,2018-01-11 00:02:47,online_store,eagle,manufacturer,3410.32,22,5-20,1,0,Sao Paulo,SP
+425,3828ab7fcb5446a6b72df54569f000a0,2017-06-14 08:12:22,offline,shark,manufacturer,45050.14,10,100-500,1,1,Belo Horizonte,MG
+426,0b368b46c7d34d0e9e735d31332494e0,2017-12-29 23:46:42,offline,wolf,manufacturer,46347.73,6,50-100,1,0,Curitiba,PR
+427,5c65247bc1314326b02fd3ceb9be4116,2018-01-28 23:30:48,online_store,cat,manufacturer,13047.91,43,20-50,1,1,Sao Paulo,SP
+428,50fade9a50fd476b9daabce201af8933,2018-05-08 21:43:49,reseller,shark,reseller,36307.97,24,500+,1,1,Rio de Janeiro,RJ
+429,f62be070cd1647e088dae6c9f1339ce7,2018-03-30 16:41:57,industry,wolf,reseller,14151.55,7,5-20,1,1,DF City,DF
+430,e068cd57fc28450f8223e62e0d157f97,2018-02-06 06:12:42,manufacturer,eagle,reseller,3415.12,45,500+,1,1,DF City,DF
+431,a2953e11077d43e3be5ab32ee235d350,2018-05-18 11:28:54,online_store,cat,reseller,35676.89,121,100-500,1,1,Sao Paulo,SP
+432,38d0fdba3212424c9140ab32aa2ea32b,2017-08-20 20:35:38,online_store,cat,manufacturer,688.97,38,5-20,1,1,Curitiba,PR
+433,0919be1882d94d6d82c4a311ff6ca15f,2017-09-15 15:07:55,reseller,eagle,reseller,9653.02,75,5-20,1,0,Belo Horizonte,MG
+434,558a68709a2c4e049c986e99f5607746,2017-07-22 13:31:04,online_store,shark,reseller,10964.8,44,5-20,0,0,CE City,CE
+435,c72cf014ada84c8fb08c4ecabc18b5d3,2017-08-30 22:05:18,online_store,shark,manufacturer,3476.0,24,20-50,1,1,Rio de Janeiro,RJ
+436,bd79f6d9f9434d669b57d62ebe05c0f4,2018-06-13 17:16:48,online_store,wolf,reseller,46445.1,94,20-50,1,1,Curitiba,PR
+437,2a0ecf3451dc45749b4f7154f18fa8ae,2017-08-21 15:34:40,offline,cat,manufacturer,15629.68,57,100-500,1,1,Curitiba,PR
+438,86b241623f5b4cdfaf36b66534c8ca1e,2018-05-05 01:00:11,online_store,wolf,reseller,3509.86,179,20-50,1,1,Rio de Janeiro,RJ
+439,a330b4de217d4c62b342b72243fe440f,2018-03-07 16:38:24,manufacturer,wolf,other,40179.78,69,20-50,1,1,Curitiba,PR
+440,bf7a49af813245bb81b1200e366fab2a,2017-08-23 11:37:43,online_store,eagle,reseller,51610.78,90,1-5,0,0,Sao Paulo,SP
+441,354721c067dd4cfaaed855d5b851298d,2017-07-22 23:01:09,offline,eagle,manufacturer,14705.77,12,100-500,0,1,Sao Paulo,SP
+442,fca7aa16a89e4f1c9b82fb759ccec7ce,2017-07-24 17:15:15,industry,wolf,reseller,19458.43,118,20-50,1,1,Rio de Janeiro,RJ
+443,b23a284642724c54828735e2ef6d0c44,2018-02-04 14:12:55,other,wolf,reseller,14507.44,23,5-20,0,1,DF City,DF
+444,b40a81e7f02a421abdbd2cc7a3b6ff05,2017-08-15 03:57:55,online_store,eagle,manufacturer,54707.56,73,20-50,0,0,Rio de Janeiro,RJ
+445,e50a218e64394536b813dd5f6f8d12c7,2017-12-10 01:49:53,online_store,eagle,reseller,37327.65,34,5-20,1,1,Belo Horizonte,MG
+446,02f175c6e86a41f5815934a74c9bfb0e,2018-06-02 06:21:28,online_store,cat,other,20639.07,91,20-50,1,1,Belo Horizonte,MG
+447,13169d2aa9284b24a484e82dcc63d56e,2018-06-21 00:40:03,online_store,cat,reseller,58963.03,109,5-20,0,1,Sao Paulo,SP
+448,493594e252134caaabcba6145d6c0b7b,2017-11-04 01:34:28,online_store,shark,other,895.12,9,20-50,1,0,Sao Paulo,SP
+449,b14067c63e1f46a7a70ae488f47ff823,2017-12-13 02:12:52,other,cat,reseller,4132.74,24,1-5,1,1,Porto Alegre,RS
+450,a3055952387a4f32afa0821e3df9e484,2017-09-06 23:31:44,manufacturer,wolf,reseller,46572.75,99,20-50,1,1,CE City,CE
+451,de997863194549178a8748ff670ed340,2018-03-18 06:45:08,offline,cat,reseller,117935.92,41,5-20,1,0,Sao Paulo,SP
+452,3b531f5f0d1546f4baeec3ff95fbc3ee,2017-07-15 19:58:15,online_store,wolf,manufacturer,3538.22,99,500+,1,1,Sao Paulo,SP
+453,c8a06abb6270428aa97bc317c97e1899,2017-06-19 08:53:52,manufacturer,cat,manufacturer,38274.23,168,1-5,1,1,Sao Paulo,SP
+454,18f9f381df56412cbd778a2c75f1da76,2017-06-28 01:05:21,online_store,cat,manufacturer,18367.65,93,100-500,1,1,Sao Paulo,SP
+455,6732af0469164bacb22a13ef5a6d6e3c,2018-04-26 07:22:55,online_store,eagle,reseller,1532.58,12,20-50,0,1,Sao Paulo,SP
+456,acbd36c8bcd24e2e82a9fa5bf41647f0,2017-11-03 12:26:05,manufacturer,wolf,reseller,97861.0,17,20-50,1,1,Rio de Janeiro,RJ
+457,8d937620c178440a9088c462c3e10887,2017-10-30 00:48:01,online_store,eagle,reseller,7138.3,10,5-20,0,1,Sao Paulo,SP
+458,41e9987f0b1147c38aa557fd8563a864,2018-02-27 01:25:18,industry,wolf,reseller,435186.5,64,50-100,1,0,Sao Paulo,SP
+459,e5f1e24dcf8c4d72b2d3795c2b176433,2017-09-19 18:28:15,other,cat,reseller,14545.64,48,20-50,1,1,Curitiba,PR
+460,1c81294fcd47454ab4d12ebbfdf04568,2017-10-09 06:02:37,offline,wolf,other,20716.5,14,100-500,0,1,DF City,DF
+461,01c7f311d936423c80afe205f6b1889b,2018-04-13 01:10:38,manufacturer,eagle,reseller,34468.16,24,5-20,1,0,Sao Paulo,SP
+462,184002fa5ac14dde837093dee0ffc4fd,2017-12-29 17:50:17,manufacturer,eagle,manufacturer,1891.43,119,20-50,1,1,Porto Alegre,RS
+463,2e58b80e839247569a79d5afbc95f54e,2018-05-06 13:08:27,manufacturer,eagle,manufacturer,14800.37,52,5-20,0,1,Sao Paulo,SP
+464,a794e37914694f30a27c0fa266231abd,2017-10-07 23:00:13,industry,wolf,manufacturer,6184.4,33,20-50,1,0,PE City,PE
+465,cfe00450862d40618464fdb3669c3e99,2017-07-29 18:33:47,online_store,cat,manufacturer,39898.75,55,5-20,1,0,Belo Horizonte,MG
+466,5a57a2e3fe5c4b2783204a0d72529f86,2017-07-11 09:51:34,online_store,eagle,manufacturer,39330.05,17,50-100,1,0,Curitiba,PR
+467,bdbb9a3c8e0e4bd3914c183510f9eab7,2017-09-15 10:53:48,online_store,eagle,reseller,31812.91,13,5-20,0,1,Sao Paulo,SP
+468,9ddc11b4219149139bd62e4e0d8e7abf,2017-10-31 06:55:33,offline,eagle,reseller,14884.12,64,100-500,1,1,Belo Horizonte,MG
+469,803a2e49e80a446593ef6c412c3d1f02,2017-09-23 01:14:34,offline,shark,reseller,3390.22,42,1-5,0,1,Rio de Janeiro,RJ
+470,0e15eae9cc03431aa8d8c3d2fb8a73a1,2017-07-03 00:31:30,industry,cat,reseller,9010.9,216,20-50,1,1,Sao Paulo,SP
+471,e0d38c7fc07544a3bde930b97fa939be,2018-06-10 09:32:43,online_store,eagle,manufacturer,9387.05,22,5-20,1,1,Sao Paulo,SP
+472,f7ef167b3c3c4377b7122f70b49a0e9d,2018-02-11 03:52:02,industry,eagle,other,1664.23,8,5-20,1,0,Belo Horizonte,MG
+473,3d75dd5c773b42859430e998c866a52c,2018-03-02 05:27:24,industry,eagle,reseller,25128.41,31,20-50,1,1,Porto Alegre,RS
+474,9838b70a47b445ea9034ddf6a4a7305e,2018-01-25 07:40:35,offline,shark,reseller,912.59,102,50-100,1,1,Sao Paulo,SP
+475,83a5a4ade3fc41a79d4bfdf3f1e08f63,2017-12-30 19:49:51,reseller,wolf,reseller,82422.77,10,500+,1,1,Belo Horizonte,MG
+476,1fb0636dbbae43059a06ae993ae33052,2018-02-11 09:58:22,online_store,wolf,reseller,110054.29,27,50-100,1,0,Sao Paulo,SP
+477,a75e8a62b3384d829e04fc4f93553134,2018-05-06 12:46:19,industry,cat,reseller,26412.52,37,20-50,1,0,Sao Paulo,SP
+478,140a0e46f71d480cb3ed5c97258201a0,2018-01-08 17:39:35,industry,eagle,reseller,5783.26,6,500+,1,1,Belo Horizonte,MG
+479,037aa6b881384bc6881a57db9eb00a1b,2017-06-23 07:25:19,online_store,eagle,manufacturer,2785.44,9,500+,1,0,Sao Paulo,SP
+480,baf6e7db05384867a3b0fa10decaf70e,2018-05-04 00:03:29,other,shark,reseller,37804.57,41,20-50,1,0,Rio de Janeiro,RJ
+481,9973512ba4e6465eb596d14283208718,2017-09-23 03:17:53,offline,eagle,reseller,44862.77,40,50-100,1,0,Sao Paulo,SP
+482,d1511100b4bb43fb8b2a475f69216cb6,2017-09-28 08:57:35,reseller,wolf,other,14726.04,27,5-20,1,0,Belo Horizonte,MG
+483,2d3136d5179641d6a93247427f1859ec,2018-04-02 02:31:23,industry,shark,manufacturer,18257.21,32,20-50,1,0,Rio de Janeiro,RJ
+484,c5f1c2d7adb343c8aa8fdc48336e83ae,2017-08-16 03:10:22,offline,cat,reseller,6090.72,51,20-50,1,0,DF City,DF
+485,45249f5353684512b6746833c5c341c4,2018-02-09 23:02:04,online_store,shark,manufacturer,22946.59,22,20-50,0,0,Sao Paulo,SP
+486,d7afa7e82e6c403a9fa4ea80504a2f8a,2017-06-26 11:35:03,online_store,eagle,manufacturer,3855.6,30,1-5,0,0,Porto Alegre,RS
+487,dbb698d575054a4999ebc8f4fabf2a6d,2017-11-05 02:40:37,offline,eagle,reseller,5268.08,54,5-20,0,0,Sao Paulo,SP
+488,22d04e664b104d309e62fb070ce6a607,2017-09-16 02:56:00,manufacturer,shark,other,4001.22,35,5-20,1,0,Rio de Janeiro,RJ
+489,9b00142de0804bc29c0e10f5d97448bb,2017-12-26 07:47:32,offline,wolf,reseller,2230.35,61,100-500,1,0,Rio de Janeiro,RJ
+490,4bf5cf77836143528dca75b0368a286b,2017-09-15 03:29:38,online_store,wolf,reseller,31304.77,32,1-5,0,0,Sao Paulo,SP
+491,8bbe79a00cdb4dd4ac435b18ef7b5bb0,2017-11-20 12:53:02,reseller,cat,reseller,8837.54,36,500+,1,0,Rio de Janeiro,RJ
+492,e7c44114869f4c43819167a88c8c012a,2017-10-02 17:13:42,offline,eagle,reseller,14674.02,83,5-20,1,0,Sao Paulo,SP
+493,0d60e4bfba3b407a9ec9d6d1df79469b,2018-02-15 12:47:57,offline,cat,manufacturer,7420.99,48,5-20,1,1,Sao Paulo,SP
+494,4fc0ae5939a548be8c40105f8b823edb,2017-08-04 18:41:25,online_store,eagle,other,49066.9,30,20-50,1,0,Sao Paulo,SP
+495,44c0ee00cfcc47219fe4b9307535224d,2017-09-24 18:14:02,online_store,eagle,reseller,16753.04,146,100-500,1,0,Porto Alegre,RS
+496,7884b249cab540e1bacf2e6eb372d699,2017-11-11 07:59:12,offline,shark,manufacturer,24934.44,47,20-50,1,1,Curitiba,PR
+497,83bc078081fa48948d00261955104a97,2017-12-14 08:46:59,online_store,shark,reseller,9388.03,33,5-20,0,1,Sao Paulo,SP
+498,9404305b6d644cff86217f640524efd0,2018-01-21 13:34:12,offline,cat,manufacturer,16640.06,35,20-50,1,0,Sao Paulo,SP
+499,5794340a887642798262ecb725a6cd52,2018-04-17 06:10:09,offline,wolf,manufacturer,8334.15,91,50-100,1,1,Sao Paulo,SP
+500,1332a51a182e4d8d82a0b20ac5abe32e,2017-06-27 05:02:03,other,wolf,manufacturer,10735.48,67,50-100,1,1,Sao Paulo,SP
+501,3eef1c1c16ac4f55987b37104b503f9d,2018-03-25 20:49:28,online_store,cat,manufacturer,39730.21,66,100-500,1,0,Curitiba,PR
+502,d0f13b5c048f493d83946d92ba300762,2018-05-13 16:29:46,offline,eagle,other,19659.65,48,100-500,0,1,Belo Horizonte,MG
+503,76974cd7435149f79b4ec079d38f9be6,2017-08-18 12:57:56,online_store,wolf,other,49069.51,92,50-100,1,1,Sao Paulo,SP
+504,9ac811b423fa4587b4f553f9f2e67e57,2017-12-07 15:40:09,online_store,wolf,reseller,17737.23,40,20-50,0,0,Sao Paulo,SP
+505,aa46e13b9139465db89b4ab28b9bab0f,2018-01-14 11:43:15,offline,shark,other,15606.25,77,100-500,1,1,SC City,SC
+506,a2cad234429847e582969701f9606e59,2017-07-11 13:25:52,industry,wolf,reseller,5033.49,24,20-50,1,1,Sao Paulo,SP
+507,104d9a3f102748919c1fb2f5f2bf569a,2017-12-11 09:31:43,industry,wolf,other,5796.47,47,20-50,1,1,Sao Paulo,SP
+508,3f2ab91e3bbe4da4a0c380d7e2cd2acc,2018-05-25 10:21:15,online_store,shark,reseller,2377.7,10,5-20,0,0,Belo Horizonte,MG
+509,a5c780cb46334b8dab8670470a6f732a,2017-10-17 12:09:24,offline,wolf,reseller,1522.26,63,1-5,0,0,Belo Horizonte,MG
+510,e8251502ba2249ad8027b0e2bc93f15e,2017-10-04 13:15:01,industry,wolf,manufacturer,6595.98,79,20-50,1,0,Rio de Janeiro,RJ
+511,3256cb1248ad4b4f84817748a3fefa10,2018-06-07 13:28:10,online_store,eagle,reseller,6908.82,60,5-20,0,0,BA City,BA
+512,a903d001bee44525b5e6391f42278fea,2018-02-18 22:29:42,online_store,eagle,reseller,5064.87,82,100-500,1,0,Sao Paulo,SP
+513,bedcc54cce7a4e629fbcbad77d2ab169,2018-04-10 16:29:38,industry,wolf,reseller,21962.27,7,5-20,1,1,Porto Alegre,RS
+514,ba14e082dbb44691929346a735b72672,2017-08-29 15:45:03,online_store,shark,reseller,12149.35,28,100-500,1,0,Sao Paulo,SP
+515,7a79cd4f15b34c42b5f04ee7a03eddfa,2017-09-24 20:43:49,online_store,shark,manufacturer,65807.54,37,20-50,1,1,Belo Horizonte,MG
+516,d75c7298229d44d5915da8b7ef4fd282,2017-09-11 00:31:52,manufacturer,cat,reseller,6375.1,10,20-50,0,0,BA City,BA
+517,117a74e607e54a0f9a39804756beff23,2017-10-28 01:39:41,online_store,cat,reseller,20540.39,24,20-50,0,1,Rio de Janeiro,RJ
+518,a254ae82f2d84e798de7efbb1f23eac4,2017-10-08 13:26:17,offline,cat,other,28712.74,17,5-20,1,1,Porto Alegre,RS
+519,9aebf7d5493740ecac7e42a3baaa1ac7,2018-05-25 04:28:12,offline,cat,reseller,68407.98,53,100-500,0,1,SC City,SC
+520,39a6221c2c004820b71a5c6c5c5952a8,2017-09-16 06:32:32,online_store,eagle,other,37537.37,74,5-20,1,0,Sao Paulo,SP
+521,de027af6985d4010873e102da8cbe450,2017-07-24 08:08:12,online_store,wolf,reseller,37433.58,192,20-50,1,1,Porto Alegre,RS
+522,c4a0b9c2e0e140fa95977a6bd5b10a41,2018-01-30 13:05:55,industry,eagle,manufacturer,18043.06,12,100-500,1,0,PE City,PE
+523,6bee797da6364097b0c4f6d9a9b2cfd7,2018-02-03 10:03:28,manufacturer,eagle,reseller,6048.36,20,20-50,1,1,Belo Horizonte,MG
+524,9da90ce5450f497e90dfb622ec75665b,2017-10-13 22:52:49,offline,wolf,reseller,78597.28,31,20-50,1,1,Sao Paulo,SP
+525,51098324865e4a5da7ec4216659f48b8,2018-02-23 10:55:21,online_store,shark,manufacturer,1200.53,7,20-50,0,0,Sao Paulo,SP
+526,e9837a43e4c74900b8b104d4c54a859a,2017-07-03 22:52:37,other,cat,manufacturer,168469.03,56,100-500,1,1,Sao Paulo,SP
+527,ae2f02f1c5de403597497949f4c28ecb,2017-08-06 22:13:05,industry,wolf,reseller,8868.31,12,5-20,1,1,Sao Paulo,SP
+528,324efe96a4e74fe6a9324dcae94984d3,2017-08-20 09:12:29,online_store,wolf,reseller,3046.56,138,100-500,1,1,Rio de Janeiro,RJ
+529,4261798cc49e4574a5cea3b09e95e06f,2018-01-18 18:00:54,other,shark,manufacturer,35517.84,17,20-50,1,1,Sao Paulo,SP
+530,b873f753c7244446b009b7063d442736,2017-11-17 04:41:46,offline,eagle,reseller,6858.45,36,50-100,1,1,Sao Paulo,SP
+531,3cbbb79138c84a069a99ff79e470aac1,2017-09-11 18:23:37,other,eagle,manufacturer,3372.86,9,500+,1,1,Rio de Janeiro,RJ
+532,4bc294ee5a5846e09dc2c28ba509c81e,2018-04-30 11:21:11,manufacturer,shark,reseller,11196.92,9,5-20,1,0,Rio de Janeiro,RJ
+533,6d88f839ff214ca392d966ae4d1bb8de,2017-11-29 07:05:56,online_store,eagle,reseller,7898.1,17,50-100,0,0,Belo Horizonte,MG
+534,cf65b413f2a44c8cadda14e3c1c092d1,2017-08-30 22:24:34,reseller,wolf,manufacturer,2131.72,50,50-100,1,0,Porto Alegre,RS
+535,b6794cb941af4c2aa9913f1255c97040,2018-01-15 01:37:23,online_store,shark,manufacturer,19649.74,71,20-50,1,1,Sao Paulo,SP
+536,f7a38bef2c7e443498febaa0f5a02c8f,2017-08-14 09:06:14,reseller,shark,reseller,31916.81,19,20-50,1,1,Sao Paulo,SP
+537,9f71682a370b4a958be1d1c38fd7f3fb,2017-10-25 14:58:01,online_store,cat,reseller,54454.29,17,5-20,1,0,Sao Paulo,SP
+538,5a764931fcd04f4da3d25151ad4ae9ed,2018-02-12 06:33:53,reseller,shark,manufacturer,11431.78,79,50-100,1,1,Rio de Janeiro,RJ
+539,ec2f4ac7052a4f73bd6117b82fb57093,2018-06-05 14:04:40,manufacturer,cat,reseller,3503.42,48,20-50,1,0,Sao Paulo,SP
+540,732076d452004f0fbf2aca31f426360a,2017-08-29 23:44:48,online_store,wolf,reseller,6155.03,65,1-5,0,1,Porto Alegre,RS
+541,73916028ed374ba9a121e6e6ed55db99,2017-06-28 09:41:06,industry,eagle,reseller,52028.52,36,1-5,1,1,Sao Paulo,SP
+542,22043ea562a648c9a89734c5dabcbc0f,2018-02-28 22:25:10,offline,cat,manufacturer,9960.26,64,500+,1,1,PE City,PE
+543,c22b963684e0437ba8e5297bbb552420,2017-11-04 22:56:24,online_store,wolf,reseller,15295.27,132,50-100,1,0,Rio de Janeiro,RJ
+544,08d8fd7dd51f457f888d8540a51a5713,2017-11-05 11:26:06,offline,shark,manufacturer,6837.08,48,1-5,1,1,Rio de Janeiro,RJ
+545,a11e4a6331bc4bee8ccaaf453139f537,2018-02-08 01:57:37,offline,cat,manufacturer,2309.62,56,20-50,1,1,Curitiba,PR
+546,ac619c490aa445c6936627750b37c974,2017-07-01 16:46:43,online_store,wolf,reseller,17831.06,10,5-20,1,1,Porto Alegre,RS
+547,99a72d49b49a4c469cb2a052e1525d0e,2017-09-17 05:19:20,online_store,cat,reseller,41615.74,16,100-500,0,0,Belo Horizonte,MG
+548,92f744b2621e470682f5f0c905e07184,2018-04-27 07:17:50,industry,wolf,manufacturer,10761.93,28,50-100,0,0,PE City,PE
+549,7c0136b69aa24cc284060ab98e6844fc,2017-08-24 05:20:53,online_store,shark,manufacturer,2339.64,16,20-50,1,1,Rio de Janeiro,RJ
+550,fe89cd88a24348a7bc04aef4b67143b2,2018-02-11 10:30:48,online_store,eagle,reseller,15039.64,66,100-500,1,1,Curitiba,PR
+551,c138ad9c50fd4558a064b5f5c4ddf6b8,2017-07-14 04:51:55,online_store,cat,reseller,2764.19,270,100-500,0,1,Sao Paulo,SP
+552,dce93797356d40b39d7d01001fe8898f,2017-10-01 05:24:47,offline,cat,reseller,21438.67,11,5-20,0,0,SC City,SC
+553,16ce07f55c74446c8add71357f1099f5,2018-05-13 16:16:47,manufacturer,shark,manufacturer,13984.45,74,100-500,1,0,Sao Paulo,SP
+554,576c37a7005d43799ec5caeaa2ac7477,2017-12-15 04:47:06,offline,cat,manufacturer,19598.07,133,5-20,1,1,Sao Paulo,SP
+555,9e3191c5957a4a02b72c836cd98a4f69,2018-06-03 00:29:38,online_store,eagle,reseller,15768.62,14,20-50,1,0,Belo Horizonte,MG
+556,ac0f6eb43898466cb5724c90fba36682,2017-11-08 12:45:17,offline,shark,reseller,55130.92,54,50-100,0,0,Sao Paulo,SP
+557,c70e3c650a144dc6b14b90c34d9302e6,2018-01-11 21:05:27,online_store,cat,reseller,124778.8,67,100-500,1,0,Sao Paulo,SP
+558,e7d35c882e134032801f8600c4fe196c,2017-09-22 16:42:57,industry,shark,reseller,10827.47,41,5-20,0,1,Sao Paulo,SP
+559,4c66859a8f954a8295b91ec90e92c5ae,2018-03-24 01:24:02,online_store,shark,manufacturer,113158.33,47,50-100,1,1,Belo Horizonte,MG
+560,6c8092578e1140f08ff4e939b2602331,2017-09-26 12:49:49,offline,wolf,other,8419.39,6,20-50,1,1,BA City,BA
+561,646a1545fe02466388c0985b980a18cc,2018-03-14 19:18:05,other,shark,manufacturer,28526.31,31,50-100,0,1,Belo Horizonte,MG
+562,6ae2aa67ca2947f580e1bdf5c176c477,2018-02-25 17:23:47,reseller,cat,reseller,9789.83,242,50-100,1,1,SC City,SC
+563,95e8a5e9e8914d66a3866966938d389b,2017-10-06 16:43:03,reseller,eagle,other,2498.94,50,20-50,0,1,Rio de Janeiro,RJ
+564,77ad6930b13647c9ba29b019c46308e9,2017-11-03 02:30:58,online_store,cat,reseller,16236.19,8,1-5,0,1,Sao Paulo,SP
+565,668256d68a5f412cbce635be9dd05d95,2018-01-03 19:16:30,industry,shark,manufacturer,8485.95,70,1-5,1,0,Sao Paulo,SP
+566,7eb7d251c3864379a719ec1ee659dfe0,2017-08-24 18:55:10,industry,cat,manufacturer,46828.59,48,20-50,1,1,Rio de Janeiro,RJ
+567,69b99f24696a46209bd893cc15bca08c,2017-09-10 06:55:15,reseller,eagle,manufacturer,40118.58,82,20-50,1,1,Sao Paulo,SP
+568,1303014d07114304b65e619881e9096e,2017-12-26 17:58:09,online_store,eagle,manufacturer,22954.11,80,20-50,1,1,Sao Paulo,SP
+569,3b939fba12c34ac3a6c2474d633aa701,2017-06-10 04:20:32,offline,cat,other,16379.6,43,50-100,1,0,Rio de Janeiro,RJ
+570,c72238816e4945cabaa70ef4b005fc39,2018-05-02 18:25:48,reseller,cat,manufacturer,4590.47,34,20-50,1,1,Belo Horizonte,MG
+571,794cf48e7346460e9207320de9b70d53,2017-07-18 11:12:46,offline,cat,other,20268.76,41,20-50,0,0,Sao Paulo,SP
+572,75535cadda814d3fbcb6571cbe0ae883,2017-09-07 16:47:35,industry,wolf,reseller,6022.95,30,100-500,1,0,Curitiba,PR
+573,212d6a2d3af446948b7974c1ef62cdf4,2018-01-23 05:12:35,online_store,cat,reseller,3443.19,56,20-50,0,1,Porto Alegre,RS
+574,0f7ee7cb3dcc4c87949ccb1f1678c566,2017-09-26 11:22:48,industry,eagle,manufacturer,15684.29,62,20-50,0,1,Porto Alegre,RS
+575,9204fbeb14a841bfbfa3f37d05de59fd,2017-07-26 16:58:59,industry,eagle,manufacturer,3444.79,22,50-100,1,1,CE City,CE
+576,bb787adaa2b1485a8065c9388b9b8d52,2017-09-08 19:55:56,online_store,cat,reseller,142592.99,342,5-20,1,1,Sao Paulo,SP
+577,989d1b2b07e145108e5c4bdf7f71ea15,2018-04-05 22:02:31,offline,wolf,reseller,45313.27,11,20-50,0,1,Belo Horizonte,MG
+578,2ebb1379261243a8b4ffabb61cccb3a1,2018-02-04 20:11:11,offline,wolf,manufacturer,6032.88,121,50-100,1,0,SC City,SC
+579,34e66688f03c471dab7d8483fd4e6bcb,2018-03-30 23:50:12,offline,wolf,reseller,1228.02,65,1-5,1,0,Belo Horizonte,MG
+580,ac372dc0bb3e470f92a8eff49a5e8589,2018-02-12 12:48:25,industry,cat,reseller,5674.84,21,50-100,1,1,Curitiba,PR
+581,e939d78178b349a79f9dc4a039a2ee88,2017-12-05 19:18:38,online_store,eagle,manufacturer,55462.31,34,20-50,1,0,Sao Paulo,SP
+582,ae1b6e44cf014834b27bdab5ade7dae5,2018-05-03 12:29:11,online_store,cat,manufacturer,63660.28,50,50-100,1,1,Belo Horizonte,MG
+583,5939717c049e482eb71f284d30973171,2017-11-10 15:01:38,online_store,eagle,reseller,2408.6,8,100-500,1,1,Sao Paulo,SP
+584,a48171689eac4adca8cddae7e3847a30,2017-09-21 12:36:39,online_store,wolf,manufacturer,7166.47,36,50-100,1,0,CE City,CE
+585,c877e3bbe361499fa26b44b23b1b421c,2017-11-21 08:41:14,manufacturer,shark,reseller,10257.34,33,5-20,0,1,Curitiba,PR
+586,401ce80df07c42fc8743fc9be468df33,2018-05-10 16:37:32,offline,eagle,manufacturer,166121.5,67,20-50,1,1,BA City,BA
+587,aeb57b656a8d464cb175bee740634497,2017-07-25 11:25:31,online_store,eagle,other,14119.36,118,50-100,1,0,Porto Alegre,RS
+588,dfe08f4e2eea4a8690a75e19f205658c,2017-06-21 05:45:39,reseller,cat,reseller,63115.41,41,20-50,1,1,Sao Paulo,SP
+589,1e525737b3d24768a055bc2aa4bee220,2017-11-21 22:50:17,offline,eagle,manufacturer,33995.74,11,100-500,1,0,Sao Paulo,SP
+590,e18175bc9f51404895cb7d7699e66cca,2018-01-24 21:03:08,online_store,shark,reseller,22323.73,50,1-5,1,1,BA City,BA
+591,c44443cf50c44ca58adfd6c7f296f8d8,2017-11-12 13:34:30,other,shark,manufacturer,256687.95,138,20-50,0,1,Sao Paulo,SP
+592,6639bcfa3d3d4f0e8d06189634dcee01,2017-07-12 01:15:35,offline,cat,other,6631.16,67,100-500,1,0,Sao Paulo,SP
+593,b12d33c2b39844a384a02138a2ba5b30,2018-04-30 21:42:51,online_store,cat,other,1289.42,77,1-5,1,1,Belo Horizonte,MG
+594,f4e6344d96ee4b95931543386b1fbeb8,2018-03-15 13:47:41,industry,cat,reseller,19005.75,10,20-50,1,1,Rio de Janeiro,RJ
+595,c4ca3f65ad01405784225a05caee533e,2018-01-05 12:56:53,industry,shark,manufacturer,4901.41,27,5-20,1,1,Belo Horizonte,MG
+596,f401fec9a2764aaf8ae4839fd5e47355,2017-08-04 05:46:48,reseller,shark,manufacturer,41922.49,8,20-50,1,0,Rio de Janeiro,RJ
+597,a232fe1e21f146bfbeb4624833768b5b,2017-06-28 00:47:40,industry,cat,manufacturer,41146.23,106,100-500,1,1,Porto Alegre,RS
+598,73141a93510d4f3c96cd2616079ae1c8,2018-03-09 04:07:11,reseller,eagle,manufacturer,10589.81,32,20-50,1,0,SC City,SC
+599,7134c4c132354e0ba08e99939fbb996d,2018-03-03 12:10:36,online_store,cat,reseller,13087.26,26,50-100,1,0,Sao Paulo,SP
+600,c7b39061f1b54e2bbe1c94850bb7b15c,2017-10-20 00:06:37,online_store,cat,manufacturer,33166.84,184,100-500,1,0,Sao Paulo,SP
+601,e751a5a56457431b86cbc2fa878fb665,2018-01-31 15:23:26,online_store,wolf,reseller,10288.83,18,100-500,1,0,Rio de Janeiro,RJ
+602,84e9861a92e142ca9e4b9f4a36de99b2,2017-09-05 11:23:21,online_store,cat,reseller,5369.11,125,5-20,1,0,DF City,DF
+603,653844202057429abdcee3ccc0a474d9,2017-11-16 06:56:40,industry,shark,manufacturer,79822.63,33,100-500,0,0,Sao Paulo,SP
+604,57610c2c1fff4a20a05ef5a92c7a2fbc,2017-09-30 11:27:52,offline,eagle,reseller,15519.69,54,50-100,1,1,Sao Paulo,SP
+605,10fe118ed6ac4d93bebed8dee1c1849e,2017-06-22 15:30:31,online_store,shark,other,4005.62,93,20-50,1,1,Belo Horizonte,MG
+606,0bd68cf5aceb4a7f8702fce733d8867b,2017-10-11 07:41:42,other,eagle,reseller,4012.53,21,50-100,1,0,Sao Paulo,SP
+607,2904632d88f44ee0a4a3db37a5180847,2018-04-21 10:40:34,online_store,cat,manufacturer,39332.07,14,20-50,0,1,DF City,DF
+608,a7228135d379447baedee5b19e5b4f47,2018-04-26 09:39:35,offline,wolf,other,32879.19,61,50-100,0,0,BA City,BA
+609,0f9e5e1e0fbf498b9e134568ce86757c,2018-05-03 07:22:12,online_store,cat,other,9284.36,184,50-100,0,1,Rio de Janeiro,RJ
+610,e2e80bb4e34d4cd98dba697b038b2cbf,2017-11-19 18:37:09,industry,eagle,manufacturer,6901.25,157,5-20,1,1,Belo Horizonte,MG
+611,356a01a137d747d8b436b6ebf8ac794a,2018-03-14 17:03:59,reseller,cat,reseller,706.62,17,20-50,1,1,Sao Paulo,SP
+612,d70e1b5fe1dd43f59ef5a9ba1acc81eb,2017-10-25 21:26:06,online_store,wolf,reseller,3088.69,104,500+,1,1,Porto Alegre,RS
+613,4ff32601dd474562b254f7402cda7e20,2018-01-19 15:05:29,online_store,wolf,reseller,13664.49,109,1-5,1,0,Porto Alegre,RS
+614,90bac4989376461abd949711e58b914e,2017-12-09 16:28:53,manufacturer,shark,reseller,27832.59,50,1-5,1,1,Sao Paulo,SP
+615,bd00bee025fe4b889d47bf55b1cd30fe,2018-02-24 19:01:25,online_store,cat,reseller,10726.71,94,5-20,1,1,Sao Paulo,SP
+616,c14b879b708a4ee3b4e39c993694e648,2018-01-24 14:20:55,online_store,wolf,reseller,35092.58,94,5-20,1,0,PE City,PE
+617,c255035061a14898a977cc1eb94868d8,2017-08-31 01:57:23,other,wolf,reseller,44059.33,21,100-500,1,0,Rio de Janeiro,RJ
+618,7f20b22732914ba39cba6d245e6c73a2,2017-08-24 09:22:59,online_store,eagle,reseller,14215.12,10,20-50,0,1,Belo Horizonte,MG
+619,5c8a1fc0d37f43098c95c7f87e4b3106,2017-06-21 18:37:00,manufacturer,eagle,manufacturer,9591.89,23,20-50,1,1,Sao Paulo,SP
+620,a6aa32068cb7413ba6111de84459783d,2017-09-26 10:40:24,offline,cat,manufacturer,8061.7,26,50-100,1,1,Sao Paulo,SP
+621,331b3c0b1b6e45ffa2622c1755d3ce79,2017-08-15 19:54:48,manufacturer,wolf,reseller,34763.49,7,100-500,1,0,SC City,SC
+622,6c9f09ece2dc416885c445f7bdf5487e,2017-08-22 15:03:56,reseller,shark,manufacturer,3241.63,12,50-100,1,1,Sao Paulo,SP
+623,b40fedfee30545eb92e61ea6c6e1d2cb,2017-09-02 18:15:50,online_store,eagle,reseller,9275.41,87,1-5,0,0,Belo Horizonte,MG
+624,6be3170b25ca486ebcdc63c7645c2e16,2018-03-12 17:02:06,other,eagle,reseller,5864.81,38,5-20,0,1,Sao Paulo,SP
+625,87db37e41c2d4bb1a045cee65b7a2691,2018-04-10 03:11:13,industry,cat,manufacturer,7202.34,264,5-20,0,0,Sao Paulo,SP
+626,5c128351170942eda0d177e96ce1b9ee,2018-04-25 08:49:52,other,shark,reseller,25918.55,32,5-20,1,1,PE City,PE
+627,ea20187cc8b0497d850d93e5414915b2,2017-08-22 18:56:24,other,cat,reseller,63600.17,123,50-100,1,1,Belo Horizonte,MG
+628,74a74fc6d53148e1b728b1826ad39cd3,2017-06-13 07:12:17,offline,wolf,reseller,70816.11,43,5-20,0,0,PE City,PE
+629,15df1cfb75154e469a6373d075fcd89b,2017-09-18 14:17:40,manufacturer,wolf,reseller,15689.21,25,100-500,1,1,PE City,PE
+630,6223437ce31545b4bc1567ae74056af7,2018-03-03 08:05:43,other,shark,manufacturer,3120.87,29,500+,1,0,DF City,DF
+631,2a9ab177974d458e9aaf3145780417bb,2017-06-20 18:14:01,online_store,eagle,reseller,9697.67,22,20-50,1,1,BA City,BA
+632,3a80179efffa4c53ad35c7b87ab28009,2017-09-10 22:41:26,industry,cat,manufacturer,42627.72,9,20-50,1,1,Sao Paulo,SP
+633,7f5413cb391b403584cb293fe16d68ce,2018-01-10 22:59:46,online_store,cat,manufacturer,10124.93,28,50-100,0,1,PE City,PE
+634,ae942b5dd975463794ad57693c50f148,2017-12-20 21:05:13,manufacturer,cat,reseller,1839.25,20,20-50,1,0,Sao Paulo,SP
+635,0e655b37b9094fbcbc0d57ba01742bdf,2018-01-01 13:27:05,manufacturer,eagle,reseller,19238.43,6,500+,1,0,Sao Paulo,SP
+636,245ee190780b4fcb9af042b967abcad1,2018-06-10 00:06:45,offline,wolf,reseller,5826.24,15,500+,1,1,Sao Paulo,SP
+637,619d403b049a497090fff89e3328975c,2018-01-03 22:56:19,online_store,shark,reseller,10549.43,10,5-20,1,1,Sao Paulo,SP
+638,05dcb12438a34e799b531e9290ea2efa,2017-11-19 06:34:47,reseller,shark,manufacturer,1045.18,12,50-100,0,0,Belo Horizonte,MG
+639,eae237c0e95149308b4c7c08192478d1,2018-06-15 13:45:52,industry,wolf,manufacturer,63627.18,42,50-100,1,0,Sao Paulo,SP
+640,cab26d2d44f74959ae8eda8f0452b387,2018-04-14 21:43:56,reseller,wolf,reseller,1580.45,5,20-50,1,1,Sao Paulo,SP
+641,280d4a5a1f5749c49cfeed870fb310b4,2017-11-30 23:23:58,offline,cat,reseller,138842.71,53,100-500,1,0,Rio de Janeiro,RJ
+642,adb3890dcf3243c1b1f8a77ba601ae5d,2018-03-01 23:08:59,other,shark,reseller,30609.47,20,20-50,1,0,Rio de Janeiro,RJ
+643,80d9152a24a14887b0e725c678e3f52b,2018-01-05 16:31:14,reseller,wolf,other,779.36,14,20-50,0,1,Curitiba,PR
+644,2680dc7e3cc740da9d1dd3a98accd1f3,2017-12-21 12:35:44,offline,cat,other,49272.84,23,20-50,1,0,Sao Paulo,SP
+645,e214e5f6931e413f8082ddfb23040a1a,2018-02-14 20:29:30,industry,cat,manufacturer,40831.71,10,5-20,1,0,Sao Paulo,SP
+646,29197fe443414a7c80a700e4895d8a6a,2018-05-13 22:05:32,industry,eagle,reseller,12149.62,24,50-100,0,1,Sao Paulo,SP
+647,0c7b423046534fa382f5ddd55048f1bc,2017-07-09 06:11:40,industry,cat,reseller,118275.62,56,5-20,0,0,Sao Paulo,SP
+648,e3a6fff7e6e84799bdb9b9411915e819,2018-03-17 14:22:45,reseller,wolf,reseller,25867.38,92,100-500,0,1,Belo Horizonte,MG
+649,8fb56b4f0cd54dca82b004af0e412d8a,2018-04-10 14:39:09,online_store,eagle,manufacturer,11151.17,8,20-50,1,1,Rio de Janeiro,RJ
+650,ca281dce86d645349bdca3344537466f,2018-05-19 06:11:14,online_store,cat,reseller,99467.64,148,50-100,1,1,Sao Paulo,SP
+651,00a57efbc4da4343a9fbf87def557634,2017-09-21 13:39:58,online_store,wolf,other,6426.06,466,20-50,0,1,Sao Paulo,SP
+652,2195b6e521954fb292875aef91512543,2018-02-17 20:27:23,offline,eagle,manufacturer,16985.46,24,20-50,1,1,Sao Paulo,SP
+653,32ec5b6242114e97aaa97b23298824aa,2017-10-04 06:35:30,online_store,wolf,manufacturer,11939.97,23,100-500,0,1,CE City,CE
+654,f6b9c4f670dd4246a57a8e32a4aaace2,2018-06-17 13:24:00,online_store,eagle,manufacturer,8751.89,41,5-20,1,0,Sao Paulo,SP
+655,415bf6c11c96418387ad526321941ad0,2018-06-01 11:22:20,online_store,eagle,reseller,17124.39,18,50-100,1,0,SC City,SC
+656,56339afc80444fbbb534158010fc4587,2017-09-24 10:20:19,online_store,shark,manufacturer,5112.94,9,1-5,1,0,Porto Alegre,RS
+657,49d555a6a6d64131943f53cfdfc9efda,2017-12-04 17:07:53,online_store,eagle,other,21760.48,47,20-50,0,1,Sao Paulo,SP
+658,5327fe80c9774ea79b6a79d22a92ca18,2017-09-30 15:41:52,online_store,wolf,reseller,97393.98,40,20-50,0,0,CE City,CE
+659,7d8cf575030d43649649e0f5f701c3f8,2017-09-29 17:13:45,online_store,eagle,manufacturer,10757.3,75,5-20,1,1,Curitiba,PR
+660,aba87099dc1d4ef49de423607cf1b43b,2017-11-30 22:54:20,online_store,cat,reseller,18443.51,31,5-20,1,1,Porto Alegre,RS
+661,67e28fdb110d44728fc67d26f5a6de80,2018-03-18 03:38:08,industry,cat,reseller,4939.45,57,5-20,1,1,Sao Paulo,SP
+662,6822c117b62b461ab66a7d7ed90e4c48,2018-04-02 03:51:50,online_store,cat,other,1934.87,14,100-500,1,1,Rio de Janeiro,RJ
+663,006880b76f1e4b28a287f74ea1200335,2018-05-12 20:04:54,online_store,eagle,reseller,3706.62,28,500+,0,1,Sao Paulo,SP
+664,57f2d4ac7421436abb9c47fc2de8cec6,2017-12-18 20:08:59,industry,eagle,reseller,633576.92,16,20-50,1,0,Sao Paulo,SP
+665,0a72132402c243a9819eb1e4c589d5ce,2018-02-28 18:43:14,reseller,wolf,manufacturer,17504.81,52,500+,1,1,SC City,SC
+666,ae3290ea4b1f406d8749accff66c12b8,2018-03-27 19:12:07,industry,eagle,other,2522.14,30,20-50,1,1,BA City,BA
+667,558c389e0e8f423b98b0ee7f86ad72c2,2017-07-10 11:18:56,industry,eagle,manufacturer,6003.07,317,50-100,1,0,Sao Paulo,SP
+668,93072422960943a799a44bfd60d8bff8,2017-08-27 16:56:38,online_store,cat,manufacturer,46466.26,61,20-50,1,0,Curitiba,PR
+669,34bc8b39ec4546ca86111689c8810a7a,2018-05-02 18:31:06,manufacturer,cat,reseller,165106.54,94,50-100,1,0,Porto Alegre,RS
+670,39cbad23d2da44cfb755cc0784fbf7a7,2017-09-07 06:02:25,industry,cat,manufacturer,32272.08,71,500+,1,0,Sao Paulo,SP
+671,73d02aac12984dd4aada21d4b957d42a,2018-03-30 18:12:12,offline,wolf,reseller,17243.42,45,5-20,0,1,Rio de Janeiro,RJ
+672,207a910554cd47f3bc1e5f18b1e4e884,2017-07-08 20:50:26,online_store,shark,manufacturer,129922.02,70,20-50,0,1,Rio de Janeiro,RJ
+673,786fd835f7154aa7b6e73d334a66854b,2017-12-07 11:31:26,industry,wolf,reseller,4366.04,126,20-50,1,1,Curitiba,PR
+674,6067fd101a254d2f840165caf4c70e97,2017-10-15 19:47:51,online_store,cat,reseller,5098.07,24,20-50,1,1,SC City,SC
+675,ff5d984b3937423889952bfb0c695159,2018-01-31 07:05:14,online_store,wolf,reseller,1722.87,72,50-100,1,1,Sao Paulo,SP
+676,2fe57d78fd9a4535bde6c4e658a54bfd,2018-06-10 17:36:01,other,wolf,reseller,30104.7,122,100-500,1,0,Belo Horizonte,MG
+677,814597db1d1e4b989e91ac18d6417a98,2017-07-11 07:36:25,industry,wolf,reseller,32144.83,28,100-500,1,0,Curitiba,PR
+678,f3a4393ed00d40ccb3dfb99b22f4b691,2018-04-07 04:47:47,industry,shark,reseller,4317.57,14,20-50,0,1,Curitiba,PR
+679,8ea1db3f4e2840cdbcf52112360a2f76,2017-09-19 14:45:23,offline,shark,manufacturer,11173.95,90,100-500,0,1,Sao Paulo,SP
+680,348927ca8c764968a9f072685a1e4db3,2017-07-18 19:06:41,industry,cat,manufacturer,7882.6,51,5-20,1,0,Rio de Janeiro,RJ
+681,6930fcdaf9cb4b61bf8b49948bb64982,2017-07-16 08:51:07,industry,eagle,other,16103.8,54,1-5,1,1,SC City,SC
+682,a9985e020d884130ad19e37057d1ce18,2018-04-10 19:48:11,offline,cat,reseller,12740.21,58,50-100,1,0,Sao Paulo,SP
+683,f071eb26df75409bb8bb891a62b01887,2018-01-28 03:54:39,online_store,wolf,manufacturer,12661.86,23,100-500,1,0,Rio de Janeiro,RJ
+684,10a9a54c8d65498383ebbb4c65e565f4,2018-05-29 07:12:44,online_store,wolf,manufacturer,8767.94,106,5-20,1,1,Curitiba,PR
+685,28239375a5e34148815553cfcd472855,2017-11-17 05:48:25,online_store,shark,reseller,11393.31,39,20-50,0,1,Sao Paulo,SP
+686,4513d3e9335a440cad8f39c7bf7ae461,2018-02-11 20:48:28,industry,wolf,reseller,14418.19,5,1-5,0,1,SC City,SC
+687,2bbffae77fad462b9fe7186bacd746d2,2017-12-14 07:30:28,offline,wolf,manufacturer,29435.5,9,20-50,1,1,Sao Paulo,SP
+688,0679aaca861243e08c111041d36ddd89,2017-08-16 09:35:48,online_store,cat,manufacturer,26357.94,22,500+,1,0,Sao Paulo,SP
+689,508b690c90844c4fabad9ba34ea75278,2017-12-01 08:09:03,reseller,cat,reseller,6327.17,98,50-100,1,1,Sao Paulo,SP
+690,8adf439da9f046c6a6c2e33470fba708,2018-03-11 23:59:39,offline,eagle,reseller,28434.88,78,20-50,1,1,Sao Paulo,SP
+691,0a4367256f9a487d8ab4903ca5dc7ed4,2017-08-29 20:17:00,offline,cat,reseller,12904.33,22,5-20,1,0,Sao Paulo,SP
+692,88498152e03d4c83bdaf6a993ec5455f,2018-01-05 06:00:57,online_store,cat,reseller,20956.81,160,1-5,1,1,Porto Alegre,RS
+693,e0287be31a9e423a86cb91944776a43a,2017-11-24 17:12:34,online_store,cat,other,13603.64,70,500+,1,1,Sao Paulo,SP
+694,0ba8f82f5a2c48f3abf7e2699f2692a7,2018-03-17 08:17:02,offline,cat,reseller,7237.76,33,20-50,1,1,PE City,PE
+695,f2ec074d6b8c4ec5a44357324d1bed4d,2018-03-02 19:17:02,online_store,cat,reseller,7840.04,10,50-100,1,0,Rio de Janeiro,RJ
+696,398125bd7f054494844554029c9042ff,2017-07-02 06:02:57,online_store,cat,reseller,53521.23,24,50-100,1,1,Rio de Janeiro,RJ
+697,1f4f24e5ae6f4778a83039d9c1ef019f,2017-07-01 10:26:00,industry,cat,manufacturer,14003.82,41,5-20,1,1,Rio de Janeiro,RJ
+698,b84162fb59fe497d882a2e76b5963637,2017-07-21 02:01:25,industry,eagle,manufacturer,11511.56,83,1-5,0,1,Porto Alegre,RS
+699,80502425ff1c46ef9f3b2ce6762c2e34,2017-12-18 19:06:33,online_store,cat,manufacturer,36887.27,34,5-20,0,1,Rio de Janeiro,RJ
+700,6623273ebd414c5995c2938c00b14396,2017-09-05 19:27:39,reseller,wolf,reseller,114433.47,8,100-500,1,0,Sao Paulo,SP
+701,381c8fad3e1e4750addc89682043bdbe,2017-11-02 07:15:10,industry,shark,reseller,40656.57,38,50-100,0,1,BA City,BA
+702,0a42f39090bf445cb255051c02f98327,2018-03-03 17:08:30,manufacturer,wolf,other,23283.39,44,1-5,1,1,Rio de Janeiro,RJ
+703,c02c9336ef034dff9089d205918eab6a,2018-01-31 10:58:46,manufacturer,shark,manufacturer,8130.83,18,100-500,1,1,Sao Paulo,SP
+704,3f14a7b47e9944b3abbf7e05bd160050,2018-06-12 07:34:52,offline,wolf,other,11663.22,66,50-100,1,1,Rio de Janeiro,RJ
+705,521fa5062cdf41d88ab5cc83eca4aa5c,2018-01-11 11:05:18,offline,shark,reseller,1223.39,86,20-50,0,1,Belo Horizonte,MG
+706,52b52633cd1d4ea080c0e10bce3bd930,2018-04-17 19:00:57,other,cat,other,126666.05,67,500+,1,1,Sao Paulo,SP
+707,9751ca8402434b309b1013ed428bd263,2018-02-10 06:49:40,reseller,eagle,reseller,30893.18,49,100-500,0,0,Curitiba,PR
+708,ca9bbdcccb0947c1bfb5f966fa2eec4a,2018-05-29 16:58:52,offline,wolf,reseller,35303.42,24,50-100,1,1,Belo Horizonte,MG
+709,115cf1d39aa440be8d4175c488f53f17,2017-08-02 11:13:17,online_store,eagle,reseller,17650.01,28,50-100,0,1,Belo Horizonte,MG
+710,0a4f7b45f2f24cd29774fbf6a10b4f13,2018-05-31 06:35:50,other,eagle,reseller,14790.75,28,1-5,1,1,Rio de Janeiro,RJ
+711,60b227d898574d8a93718837555156cf,2018-01-10 11:48:24,online_store,shark,reseller,57919.78,72,20-50,0,1,DF City,DF
+712,f16d701df7f84b06af3f38b15e76a1b7,2018-05-29 17:01:16,online_store,cat,reseller,43738.66,12,20-50,1,1,Sao Paulo,SP
+713,39fd84741dd84b1a940b86577b2021ed,2018-04-05 18:48:03,online_store,wolf,manufacturer,41157.26,104,20-50,0,1,Belo Horizonte,MG
+714,e306983651bc4d3981a6f362508ee18f,2017-10-17 23:23:56,reseller,cat,manufacturer,3620.91,14,100-500,1,1,Sao Paulo,SP
+715,6065eb8b3fef47a28140bdb25e9fb1b5,2017-12-28 04:11:03,online_store,shark,reseller,19609.86,7,50-100,0,1,Porto Alegre,RS
+716,1132b310e9a94a968366c310166279dc,2018-03-12 12:19:20,online_store,cat,manufacturer,22692.41,33,50-100,1,1,Sao Paulo,SP
+717,7cda62b3fb3746bdae7e837cf4be0032,2017-07-17 23:27:01,online_store,wolf,manufacturer,6068.65,29,20-50,0,1,Sao Paulo,SP
+718,3e245306c6314f2e8974f490773b9927,2017-10-31 21:19:06,industry,cat,manufacturer,15800.4,33,5-20,1,1,SC City,SC
+719,a66e5ede35714c76a1a840794bdb2f0d,2018-03-14 19:49:23,other,shark,manufacturer,3115.73,28,100-500,1,0,Rio de Janeiro,RJ
+720,c1814fb770324805a3af87fc80825fec,2017-11-22 15:43:00,manufacturer,cat,manufacturer,3514.61,10,100-500,1,1,Sao Paulo,SP
+721,042c9089fd6c424baab9fd40bfdf85fc,2017-11-08 10:15:01,reseller,eagle,reseller,44824.72,19,100-500,1,1,Belo Horizonte,MG
+722,b6a714b245c54a6ab43e023d52dc87cd,2018-03-20 09:14:51,online_store,eagle,other,10325.45,53,1-5,1,1,Porto Alegre,RS
+723,6338d5b524a741f59e4b4eaa4098819f,2018-01-06 15:15:08,online_store,wolf,manufacturer,17496.92,9,20-50,1,0,Sao Paulo,SP
+724,75f23e383bda4f47816fc07035d7c57d,2017-08-24 09:29:28,online_store,cat,reseller,25229.57,42,20-50,1,1,Sao Paulo,SP
+725,e809585119814dd586b33a3810b5e433,2017-07-01 06:37:41,industry,shark,reseller,12306.39,17,50-100,1,1,DF City,DF
+726,d8dcf2626ee5451b89d1348ff0965e0a,2017-08-16 23:52:27,manufacturer,shark,reseller,2681.16,33,20-50,1,1,Belo Horizonte,MG
+727,d643d22cb6c3477292a747b839246ecc,2018-04-28 14:27:44,industry,wolf,manufacturer,66179.56,73,5-20,1,1,Sao Paulo,SP
+728,045466e263a64f478c8a7d2da8697ce5,2017-12-01 23:51:43,industry,wolf,reseller,9040.72,27,20-50,1,0,Curitiba,PR
+729,1660fbc7fa7645898bbc47c0d353715c,2018-01-11 05:15:25,online_store,wolf,reseller,2097.73,49,50-100,1,1,Rio de Janeiro,RJ
+730,730273b8ae2248f59b844bcdecb2ba0b,2017-12-18 12:44:48,reseller,wolf,manufacturer,22364.29,29,20-50,1,1,Sao Paulo,SP
+731,f8ceae40038449f3950ccd8ef146e05e,2018-01-24 18:08:25,manufacturer,eagle,manufacturer,147499.72,6,20-50,1,1,Sao Paulo,SP
+732,3f02dcae919a4c968e2d6de4cd0c2ca7,2017-09-20 18:20:27,other,eagle,reseller,5002.89,64,20-50,1,0,Sao Paulo,SP
+733,35b1996e515643cfaa8916fa51f9c4e8,2017-09-20 13:29:40,online_store,eagle,other,77627.61,38,20-50,0,1,SC City,SC
+734,fb0079d767b64b6e932c19161a7145be,2017-10-06 06:56:28,other,cat,manufacturer,80108.07,330,500+,1,1,Sao Paulo,SP
+735,8132bbaed53f4db893229a5c180465f4,2018-03-08 07:48:05,online_store,wolf,reseller,13853.9,9,100-500,0,0,Sao Paulo,SP
+736,7bb92cf1eb6d456fbe9a811185f9f1e1,2017-08-08 23:51:01,industry,cat,other,14584.27,27,500+,1,1,BA City,BA
+737,0091db4924e948e99dd187da687872cf,2017-08-02 14:02:14,offline,eagle,reseller,130082.6,23,1-5,1,1,Sao Paulo,SP
+738,6003dbbd58fd4eb4ba250a2d8a344bf3,2017-12-25 07:52:44,manufacturer,eagle,reseller,39509.07,17,5-20,1,0,Belo Horizonte,MG
+739,12fd3810f3984550b3d36de8c6afc814,2017-12-22 04:51:13,online_store,eagle,reseller,10191.66,66,20-50,1,1,Sao Paulo,SP
+740,ff2133e4ec934033bda0ca6b940efead,2018-03-02 05:18:59,online_store,eagle,reseller,8068.18,14,1-5,0,1,Belo Horizonte,MG
+741,d9d06b70c26c49c491450be97910034e,2018-03-30 04:37:12,industry,wolf,reseller,35839.32,30,100-500,1,1,Sao Paulo,SP
+742,eabb3aa599344f71bb2946b5bc0cd8b9,2018-05-28 08:03:03,reseller,wolf,reseller,33210.02,44,1-5,1,1,Sao Paulo,SP
+743,4f17bb6972b34bd798727f67c273e7e9,2017-11-23 04:10:36,online_store,wolf,manufacturer,8339.77,70,100-500,1,1,Belo Horizonte,MG
+744,10b764f9a7054f36b192496a8544edb6,2017-11-09 01:09:48,manufacturer,eagle,reseller,39911.84,22,20-50,1,1,Porto Alegre,RS
+745,da4a91c67192434db61e17393ac35fcf,2017-08-22 04:35:23,offline,cat,manufacturer,1360.13,50,5-20,1,1,Porto Alegre,RS
+746,cf0ce65294d24c5c81d0feb6a63687b9,2018-03-04 02:25:49,other,shark,reseller,3771.0,99,100-500,1,1,Belo Horizonte,MG
+747,5814d6be86474e25866ce3faec244d64,2018-04-27 16:43:14,manufacturer,wolf,reseller,2107.24,14,50-100,0,0,Rio de Janeiro,RJ
+748,fbc3a88aa9d44463a75532ff9d072f9b,2018-04-16 00:36:09,manufacturer,cat,manufacturer,18624.01,70,50-100,1,1,Rio de Janeiro,RJ
+749,228a1f7095f146f2aaf78c044ee1b712,2017-07-29 06:04:33,industry,wolf,manufacturer,41489.86,52,500+,1,1,Belo Horizonte,MG
+750,98ebe7b72bb64c8c942af9c104a880d4,2017-09-28 11:11:24,online_store,wolf,manufacturer,45671.15,22,5-20,0,1,Porto Alegre,RS
+751,7e8c287b841746cc8ecc0e1b2ffd6b9b,2017-11-03 18:21:12,reseller,shark,other,18968.0,82,20-50,0,1,Belo Horizonte,MG
+752,3cb1604cd52f42c4bfcbb339ec523f75,2018-05-22 14:00:25,offline,wolf,reseller,4109.68,69,100-500,1,1,Belo Horizonte,MG
+753,adc8f24425a44a3abb706be62021d64f,2017-07-31 08:25:04,online_store,eagle,reseller,3276.18,109,50-100,1,1,Sao Paulo,SP
+754,621a72df22284911902e7d127a2a05f0,2017-11-23 16:38:56,offline,wolf,manufacturer,3267.16,15,100-500,0,0,Sao Paulo,SP
+755,e507dccf02d84fb3a3fb0bd4ef1353bc,2017-11-20 00:37:41,online_store,eagle,reseller,10824.25,10,50-100,1,0,Sao Paulo,SP
+756,998a301a2f494f9b8dd4c99a64c93949,2017-11-10 05:29:17,online_store,eagle,reseller,7325.98,9,50-100,0,1,PE City,PE
+757,0f85234770c04d5baab2cb290a7a1a5e,2018-03-19 17:56:27,reseller,cat,manufacturer,3373.43,39,20-50,1,0,Curitiba,PR
+758,54fe538785ee4f22a1b1fb343bd4bcb5,2018-02-11 08:59:41,offline,wolf,reseller,1576.47,6,100-500,0,1,Rio de Janeiro,RJ
+759,96db55d4505b49a7a0903eed8981f807,2018-01-11 08:16:14,other,cat,manufacturer,8824.78,78,50-100,1,1,Sao Paulo,SP
+760,5bc185a60253450daf0a2284c94ba4a8,2017-08-26 20:14:13,industry,shark,reseller,9811.1,181,5-20,1,0,Sao Paulo,SP
+761,b4e617a20cfd47028c8b087ac023e922,2017-11-01 16:04:00,online_store,cat,reseller,5512.91,70,5-20,0,0,BA City,BA
+762,876ebf060cbf4a4a9274a7379f4b3bba,2017-09-23 04:07:17,online_store,cat,reseller,122890.09,12,20-50,0,1,BA City,BA
+763,39c9dc5f66e14ce6be5ef11b07c5755f,2017-12-16 23:00:23,reseller,cat,other,39450.06,10,50-100,0,0,Sao Paulo,SP
+764,7856743674be48708bc099791f8a2de5,2018-03-03 22:14:08,online_store,cat,reseller,19006.65,25,20-50,1,1,Curitiba,PR
+765,9651932e28874bcc91ec9a8cbff24db9,2018-03-25 11:35:53,online_store,cat,other,4248.61,13,20-50,1,1,Rio de Janeiro,RJ
+766,509b343d176a4a4289a7d81d91ed9591,2017-07-05 13:27:44,online_store,shark,reseller,18969.78,53,20-50,1,1,Sao Paulo,SP
+767,c6d312b36e134fe893084b68adbeded4,2017-08-22 11:02:11,industry,eagle,reseller,7478.48,179,50-100,1,1,Porto Alegre,RS
+768,7d1c610164c84886a0df25dd53333784,2017-10-02 12:24:12,manufacturer,cat,reseller,16273.64,27,20-50,1,0,Belo Horizonte,MG
+769,b0762a823f0f444ab19a94858fcf3535,2017-09-02 00:55:53,online_store,wolf,manufacturer,21194.14,13,5-20,0,1,Curitiba,PR
+770,6508870901774b5b9ebf9708372808e1,2018-02-28 15:52:38,manufacturer,eagle,reseller,76234.61,11,100-500,1,1,Sao Paulo,SP
+771,daf024a27bf44238baab2115b0174201,2017-07-28 07:10:05,reseller,eagle,manufacturer,14487.59,12,20-50,1,0,Sao Paulo,SP
+772,1530360332a24dbd9dacd5787ef8c2db,2017-07-17 18:21:52,other,wolf,reseller,14420.81,90,20-50,1,1,Sao Paulo,SP
+773,151e1da3639849c0a04ed4c24bb38327,2017-09-02 07:23:28,online_store,wolf,reseller,3772.34,16,1-5,1,0,Sao Paulo,SP
+774,35c29a74045e480a804e483942d9ce22,2018-03-01 12:28:29,offline,eagle,reseller,9557.42,27,5-20,1,0,Rio de Janeiro,RJ
+775,f0b7a3bf0f164b8d8df3c3fe7851b210,2018-04-30 11:56:27,online_store,eagle,reseller,117365.45,49,5-20,1,0,Sao Paulo,SP
+776,ce51b0d4638840b1a0d2945c58261dc3,2018-04-02 06:39:40,offline,cat,reseller,4445.14,129,500+,1,0,Rio de Janeiro,RJ
+777,d721dea4b9be4f9cbcce6f48fb8ed667,2017-11-01 21:52:54,online_store,wolf,other,5354.15,116,20-50,1,1,Sao Paulo,SP
+778,b7d7a3aa81024f53b61c208322e80f00,2017-11-12 07:32:26,offline,cat,reseller,12382.58,157,5-20,0,1,Porto Alegre,RS
+779,083e250b151147e0b524a500121a6bd9,2017-09-27 03:50:49,offline,shark,manufacturer,74597.17,92,20-50,0,1,Belo Horizonte,MG
+780,d9c51ea323084600b74b02a217e70536,2017-11-12 18:34:49,other,eagle,reseller,3495.96,44,5-20,1,1,Belo Horizonte,MG
+781,682fe67768b147ddbea43d4d07c4c234,2017-11-17 05:16:05,manufacturer,cat,reseller,12898.08,35,100-500,1,0,Sao Paulo,SP
+782,f3fa10dcd2114c2e9ec6fb17119c472e,2018-04-21 22:58:58,online_store,cat,manufacturer,20111.46,225,50-100,1,1,Sao Paulo,SP
+783,35916d79097d48c69b82fc2784b22b5e,2018-05-03 15:45:38,online_store,cat,reseller,43050.48,16,50-100,1,0,Sao Paulo,SP
+784,fd0269b88eb6471fa1d5411256e5b19b,2018-01-13 04:06:42,offline,eagle,reseller,2311.29,23,50-100,1,1,Sao Paulo,SP
+785,4c9a6e5bdb934fb286219b75d7c5a79f,2017-10-03 02:27:15,online_store,eagle,other,1638.51,84,50-100,1,1,Sao Paulo,SP
+786,20c1541b7d9e4999b66a8ee2f5967649,2017-10-28 03:19:41,reseller,eagle,reseller,18996.53,23,20-50,0,0,Sao Paulo,SP
+787,2e3fa2521c1042efb1e77083c1096297,2017-11-09 10:44:06,online_store,cat,manufacturer,4632.64,25,20-50,1,1,Belo Horizonte,MG
+788,e5c41bead9a74d48bac54c5ee50b4f80,2017-10-01 14:22:33,manufacturer,shark,reseller,27707.82,22,20-50,1,0,CE City,CE
+789,f891fd3c392643f992378509c5447354,2017-09-09 20:29:25,online_store,cat,reseller,20079.12,12,20-50,1,1,Sao Paulo,SP
+790,9843c06e0f4f4eae89459aa493565c0b,2018-03-22 11:02:36,manufacturer,cat,reseller,66204.18,28,1-5,0,1,SC City,SC
+791,f3bc6008b6b04fd7bf60f77ecd8e08b8,2018-04-22 00:11:28,offline,eagle,reseller,8148.08,25,100-500,1,1,Sao Paulo,SP
+792,238e9b286ff24456b377c385a42822ab,2018-05-19 06:59:54,online_store,cat,reseller,10033.25,22,100-500,0,0,Belo Horizonte,MG
+793,9ce7fd819d9947ac857f500e2517fafd,2017-07-21 18:24:41,online_store,cat,reseller,1611.02,6,20-50,1,1,Belo Horizonte,MG
+794,1d258946e43f4977810a073d006bedf3,2017-06-15 15:27:38,offline,cat,reseller,29615.69,227,100-500,1,0,PE City,PE
+795,212b13e72bc242278d880dc2ecfe34fc,2018-01-01 16:06:01,online_store,eagle,reseller,5022.49,16,20-50,0,1,Sao Paulo,SP
+796,ffe0378377354a09b6af3ed0a531d827,2018-04-12 06:33:56,online_store,cat,reseller,3188.23,111,1-5,1,1,Sao Paulo,SP
+797,10b253397fa342b190b4979ac765ed0f,2018-01-16 17:14:54,industry,cat,reseller,3559.91,27,500+,0,1,Sao Paulo,SP
+798,7f1ada2b481640d8a6e76f9c63242dc9,2018-06-01 10:19:56,online_store,wolf,reseller,14542.58,69,50-100,1,1,Sao Paulo,SP
+799,16558bc2e4184eef8976e4ca44f9c956,2018-02-12 08:13:27,other,cat,reseller,10936.35,14,50-100,1,0,PE City,PE
+800,dce190c34584488cb3683f92355bcab8,2017-08-22 08:04:16,online_store,cat,reseller,7989.58,35,50-100,1,0,Curitiba,PR
+801,dd4397856e8e42af9f83288543a4536f,2017-12-29 04:37:43,manufacturer,eagle,reseller,69131.48,36,50-100,0,1,Porto Alegre,RS
+802,2e4a5515033c44f797047f629f128cb6,2018-05-09 11:24:13,other,cat,reseller,13716.82,49,5-20,1,0,Rio de Janeiro,RJ
+803,3552dd34a4444df898d2e0076ef1fbad,2017-06-22 00:24:45,offline,wolf,other,24131.26,25,1-5,1,1,BA City,BA
+804,805f9bb5a88c401e9b035a031e06d7f8,2018-04-20 00:22:36,manufacturer,shark,reseller,14884.86,36,20-50,1,1,Rio de Janeiro,RJ
+805,ce5e1409c8e74e8894037fda91bd94c1,2017-07-14 16:07:12,offline,wolf,reseller,23995.35,59,500+,1,0,Sao Paulo,SP
+806,a91c5c29dc4e4254bb64dd935ba1167b,2017-08-22 18:51:11,offline,shark,reseller,15216.9,51,100-500,1,0,SC City,SC
+807,29bb687ff77a42038373dfaba875736b,2018-04-12 18:15:25,online_store,eagle,other,2864.93,56,20-50,1,1,Sao Paulo,SP
+808,cd4b0a804b274ea480616194672b26b9,2018-02-09 12:00:02,industry,shark,reseller,31039.12,15,20-50,1,1,Sao Paulo,SP
+809,0830ccfdbaaa4d629bf30ff2ea37704e,2018-06-08 17:08:47,industry,eagle,reseller,12342.13,48,20-50,0,0,Sao Paulo,SP
+810,381184a21591432badd92c8e463b599b,2017-06-24 09:07:53,offline,cat,manufacturer,1652.62,40,5-20,1,1,Belo Horizonte,MG
+811,191f16c134c5477cb4f8fd621764548b,2017-11-17 08:40:02,offline,wolf,reseller,16130.17,22,20-50,1,1,Belo Horizonte,MG
+812,71b820f65e324ea38c9f31ec34397ac6,2017-08-04 07:16:52,offline,cat,manufacturer,5912.66,8,100-500,1,1,Sao Paulo,SP
+813,6924d8d0d1a743fbbd83d0887687d95c,2018-06-03 22:35:12,other,wolf,manufacturer,21721.02,70,20-50,0,1,Porto Alegre,RS
+814,52d4ac1d94564c7eb303e9ca401e7d24,2018-05-13 16:21:30,offline,wolf,other,8753.72,68,50-100,1,0,Curitiba,PR
+815,1d9075bc21b24322a5ea2ab394cd8763,2017-08-08 15:52:06,offline,eagle,other,32870.45,206,50-100,1,1,PE City,PE
+816,236416c3e4be463d847d2fc5abbcc6f8,2017-11-27 15:21:12,reseller,wolf,manufacturer,3595.64,150,100-500,0,0,Belo Horizonte,MG
+817,5f824c62971b4bad967756392a2abfc0,2017-12-24 23:36:57,offline,cat,reseller,4621.59,86,5-20,0,0,Curitiba,PR
+818,a22ab5e355be415e833257d66154f5bc,2017-09-12 00:31:22,online_store,eagle,reseller,6174.83,5,50-100,1,0,Curitiba,PR
+819,1ed0ac4caea042dd9c22c816a4c29c5b,2018-04-25 06:51:44,reseller,wolf,manufacturer,47284.82,89,20-50,0,1,Sao Paulo,SP
+820,5fe0fdfab1d2482685c344096672365e,2017-11-25 20:12:51,other,wolf,manufacturer,5972.39,104,100-500,1,0,Sao Paulo,SP
+821,8665b01e07534d41b33290e2a3e94650,2018-02-19 12:58:07,industry,cat,reseller,46697.15,161,5-20,0,1,Rio de Janeiro,RJ
+822,ab18fbbc07ca4c4dbf44aa8dcef3fd05,2017-07-18 22:03:19,industry,cat,reseller,11523.11,77,50-100,0,1,Sao Paulo,SP
+823,79c2da36e9ef47e09b1f7de7f07a52ae,2017-08-06 10:48:00,offline,wolf,manufacturer,45336.35,56,1-5,1,0,Sao Paulo,SP
+824,9097a66b15234c51a52e074dcd072c5e,2018-03-01 10:50:54,offline,eagle,manufacturer,2765.21,16,50-100,1,0,Rio de Janeiro,RJ
+825,3764a986752148f492e6273dad0d2088,2017-09-08 07:22:15,industry,shark,reseller,2164.64,40,1-5,1,1,Sao Paulo,SP
+826,8b128d37c0fe459c88014ef44caf4cbf,2017-07-09 21:39:34,industry,cat,reseller,10119.88,53,100-500,0,1,Sao Paulo,SP
+827,113151dc4cc04aa885fff9e80fa8d9c6,2018-05-29 07:36:29,manufacturer,cat,reseller,1437.86,15,1-5,1,0,Rio de Janeiro,RJ
+828,532d4b5d6019454aa61af47b49829a51,2017-08-29 01:29:02,online_store,cat,manufacturer,11172.76,108,20-50,1,0,Porto Alegre,RS
+829,fc60ce1233d6498a893c894ddec490e1,2018-05-04 07:29:42,online_store,wolf,reseller,5384.7,19,50-100,1,0,SC City,SC
+830,0ea2c61a3f5c403ea3b3b04d6f72d34a,2018-03-17 04:46:22,online_store,eagle,manufacturer,436.42,25,50-100,1,1,Rio de Janeiro,RJ
+831,28d0b15a99284811b3a041e9fc8b58c7,2017-09-25 07:42:42,industry,wolf,manufacturer,22355.07,74,500+,0,1,Rio de Janeiro,RJ
+832,b930d65b82cc43cd8729432388534c55,2017-11-09 06:44:43,online_store,eagle,reseller,21984.37,22,1-5,1,1,Sao Paulo,SP
+833,0d9b8c793d2344e8865d7bccd8076cb1,2017-08-31 19:10:24,online_store,eagle,manufacturer,22850.31,11,5-20,0,1,Sao Paulo,SP
+834,17cd53cfdfed4480a2cf423fcb5db45e,2018-06-01 01:00:02,offline,cat,manufacturer,60834.58,16,50-100,1,0,Sao Paulo,SP
+835,b6a1ea0b77db46cdafeb6d4c38d1aabd,2018-06-15 22:23:35,online_store,eagle,manufacturer,17554.83,26,5-20,1,1,Curitiba,PR
+836,920f681a06bc4cabaa3cd7ecd3fbfb2e,2018-01-03 20:04:22,industry,wolf,manufacturer,14245.8,50,20-50,1,1,Rio de Janeiro,RJ
+837,83d86eba6f10474bb30f6323e2dc18eb,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+838,25ab5075948b42dfbf8f972fd8249a54,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+839,1035dc81075b4a5a9540a2419127333a,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+840,12d75d4005b5495c8fef0f61c3d5b59b,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+841,4436f79e13894de88af28d4495fbe8c8,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+842,5be1727089464ab38bc2ec79948b18f5,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+843,a78bc590c182420fa0bc454e23bbb620,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+844,77aae2c0d5384a309ab8b085defa44e1,,unknown,unknown,unknown,0.0,0,unknown,0,0,CE City,CE
+845,6bb3fc4bdfc943ffa51c515dcc2ff738,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+846,387cd1257adc42b7843bc66866e5b2e1,,unknown,unknown,unknown,0.0,0,unknown,0,0,PE City,PE
+847,bec5949a0e924694a29db684560042bd,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+848,45783c698133418f898f75d67a8cf021,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+849,dfa97cbeb6eb4b72a19c401cdd03f788,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+850,0b019b4b00c64163bbc57bacbcb08480,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+851,191dacaaa47f49b9aacc37698c3fea65,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+852,fee673d5487e46de8c08699f4ee07d60,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+853,704f68f8133a43c0a932428c9533b92c,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+854,4a6a667a59b04b559700601a6e284f43,,unknown,unknown,unknown,0.0,0,unknown,0,0,PE City,PE
+855,deae3ca03537474c81ab9e2bc4baf2f6,,unknown,unknown,unknown,0.0,0,unknown,0,0,PE City,PE
+856,83d6ffdd4b2947d7a0cd8c873a9b2d48,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+857,7f98b0dd1b78409084a852ea0ecbe1a7,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+858,eaa9fc490680457db155773b509e1177,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+859,d46a57df3bbb4c67b9f268ce9381a81c,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+860,3d6bb6d48bc14c1badd30d94c8756f40,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+861,a908cc7b997040c18b0f6c64bd659d13,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+862,55be5890d6054796ae68ddc9dd26b7db,,unknown,unknown,unknown,0.0,0,unknown,0,0,BA City,BA
+863,030ed3e2bc4e4cb5820e2ac6c14d7e8e,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+864,d6f2040a2e574b2682b146478ab7f1b2,,unknown,unknown,unknown,0.0,0,unknown,0,0,BA City,BA
+865,e7bd8d0e7e7d4ee28606a8c80ca19d65,,unknown,unknown,unknown,0.0,0,unknown,0,0,CE City,CE
+866,a82e462a7c2e4fb98e0fa12e8daa85fb,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+867,56d05ed8c2fd4359ae5a1080e960fdc4,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+868,c7b00d14ff7c44de806b969de6eec581,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+869,cfd1a454017c4643ba870aba0248d927,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+870,0fa445320b0c48848a8c15c78fa4d82c,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+871,2a88abfedccd4f468ae92ccff5281c20,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+872,2dc3074f11f44d8fa1d334418157dbb1,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+873,0b6c286def6e48048a03cc66ac0ac04f,,unknown,unknown,unknown,0.0,0,unknown,0,0,CE City,CE
+874,0868fe64ab414f5a8cb3762a9d3000f0,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+875,8c835281c0dd489c99df1f12bb5d3245,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+876,84e7ee120a704d99aaac30333a89cd13,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+877,cd05a2a8f9224c4aa319bc9e887d5a71,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+878,2740eddfeacc4558bc8ebd18283897c8,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+879,1a0654b2ec9e4081983691bde4d763fb,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+880,b800d04ea6854850b12c8887df0d30a1,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+881,6ebb00e45d3545a1b7cd4857f2cf2c22,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+882,3ef68aa760c84bd69cc6a7530069f956,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+883,48da1e9745ac4d358942fe07642775f7,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+884,e9d9fbb6a19f4b078b0e9bbbe77eb1b2,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+885,5fae252b2d244d86827c27ebb000933b,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+886,4075010ffebb46ac9fbbe39b6f291383,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+887,4388ea3b24314c009722f46df4c8db2a,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+888,363e12878fdd4487bb3339bb67fbd977,,unknown,unknown,unknown,0.0,0,unknown,0,0,CE City,CE
+889,8649cf3c79bf42a4851c42b53345c9a4,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+890,4ae2cc948cac4312a9f728ace374c5b6,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+891,4fc7d12dfb36470d9d80b2d4379de343,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+892,fc676685d5b64b35ba7f92d3040797ce,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+893,a03cfcc9e9f2490f8e416691581d9eb3,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+894,59ed169a21e845ebb853c31b019c7bfd,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+895,3c684ebf581a438db250f8b35e64c02d,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+896,f742988ccf8a4cb3a5f909cbc959a824,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+897,2604631f75d14d96a70bb4bad097decd,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+898,3c3241907d9740d8a5d067eceb58d55b,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+899,0854054b952a45daad5219da0e576b29,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+900,929c3aa77f044f78a094f7e2688638c6,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+901,0577fb26fbb14a7b9fdc1b4390cf1694,,unknown,unknown,unknown,0.0,0,unknown,0,0,DF City,DF
+902,1d28acb4c7d14a3684f37dac62232cc0,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+903,b971da0113ca4c8084d1b1823dcfe83f,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+904,e4a0af2ad18a4b6bb9af151361e34133,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+905,be1ef13f316b44b49c1d6c52a218c182,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+906,4e52b34b9fc24dc08af7c2c8a7192643,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+907,6b38fc24e028473ab72c83f1797c3d46,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+908,d659901bdac443a2842aa596e15c40bd,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+909,e10aa6c6f0b04cc38565f19c43c9d04c,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+910,6b7dbb13169d4d0c96d4f6980f9d4478,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+911,5d4201afee444a5bbcd6d5aa45424176,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+912,01b5d8714f9d4b0a8781cf54dd690c34,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+913,3d7d5685e01e4d7aaf20748e0f3b8e54,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+914,b5136048016d4d92b481fe4a3146f9c9,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+915,cd499d58e5774802ae14fb2285f51370,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+916,87998801c63444de919587a5a52f2ca8,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+917,a687a5e9b2d341c897a888e92dd717dc,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+918,8377a34620844336ab38746ccb3888bd,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+919,60ae351b6bf149108f685d559ff3b65a,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+920,5e0e5ff61f4843a2b41416454e433c8c,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+921,2e41a0622e754f5d8ec595e7ff12b755,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+922,b242be9152404914937cef044edb481b,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+923,558df0832bae4c208f1388c3e6f8cad1,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+924,63ce3a5beef84d79b0936958da7462d4,,unknown,unknown,unknown,0.0,0,unknown,0,0,BA City,BA
+925,060c73eafc4341959c222decfe0c6fb5,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+926,a9c4ce0866f14307873211e1ef153561,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+927,ba2575a602694d7291882e2543ba0c5d,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+928,e02110136eac42a58a79714648aa8388,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+929,0092db8f05e6476fba7d282834465ce8,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+930,8ec8b38ee05a4fce878a3860625fddcf,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+931,afd5964f6a6b406bb0ec8371fb960009,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+932,d4b9c28509e94bc0b702c4f1fa77efe2,,unknown,unknown,unknown,0.0,0,unknown,0,0,CE City,CE
+933,7af8165bc3294b0e8c3d52e7c8d8a229,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+934,d2cddbfb94044ed99acec88154034467,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+935,4203cef932f54b8b9acfcc2182c8e794,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+936,32ecde4fdc804bf79c2235fef7b06731,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+937,673ff56de6a34a3db2b4532a14879ae9,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+938,1623320973ab454ab06e90784ea73cb0,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+939,d62ac98a000647ab8901df3c1e28666a,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+940,1f91fc0adc8d4e44830f501560d68b33,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+941,ba306f740bb04be090a7b6139a88077a,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+942,c7a844c4f8fb4a739adad8cdcb87be56,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+943,4bbb26b41d2345e8b43ae83d140f61e4,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+944,76b5ae6cb3e64c1389d09714d9060974,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+945,1839e8af583d483f80e96ae74e8f2d43,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+946,99a45eb3a56347bd9deb02b513274fc0,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+947,d399ae0cfa194d25958514fa1a721097,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+948,17c605de848746bda5010d3e3744d8c0,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+949,33b34ce8e3dd4e28940f5ea7510caa0c,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+950,f03d079790e946a2b442cafef6d9bf19,,unknown,unknown,unknown,0.0,0,unknown,0,0,BA City,BA
+951,10de752d9581477d97e00a6a5bb98fec,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+952,19cf1e5a0dc441ceab07cc486aecd257,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+953,244acf4863c14a80afc2aed5351b9e86,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+954,e81c6f79a11647b9a8a633aeac0af6dd,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+955,ea8dc0ce1e2e4f03b9ec2922e371b91b,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+956,512f55e57fab471eb9d450cfddde1320,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+957,6c26a92d12cf49689a175103b43b30f3,,unknown,unknown,unknown,0.0,0,unknown,0,0,CE City,CE
+958,e7789b57c8394949b03998a6d101a06a,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+959,49d6b4962e314ba782c23ad4767c60d3,,unknown,unknown,unknown,0.0,0,unknown,0,0,BA City,BA
+960,f8fe13e985914f36a56cc2548dba7fa7,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+961,0b6ad7b014b044b69a52f6c39f6cc1db,,unknown,unknown,unknown,0.0,0,unknown,0,0,PE City,PE
+962,cd57318b3e7346378f4cb8fc76dea10f,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+963,670a33888a3149dcabc9bebdc38d3b2a,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+964,0c49b1a4aaa24876b902ef1f5de0fbd8,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+965,07be55d0e1784781b4503392386969c8,,unknown,unknown,unknown,0.0,0,unknown,0,0,BA City,BA
+966,62be31e286e147bdb2bcd5c18e77bfe5,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+967,11a8dbbea4704e20b48a2417852dbb18,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+968,73f69f4533314287863ab5aaf9a42443,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+969,b7b61fd0470148c0979b2e993aa4da3e,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+970,73cae9f568a14912919b72a0ae8e1e00,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+971,1243d1864a92403da7f9fc55dc6c217d,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+972,2b56bd8896ae40bcaf1ebe0e72af0d8c,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+973,008ded9059664750a521b402d54980e2,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+974,5d329de6d0fa41828318d4b75604530e,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+975,367a46077c6b462da19c49ce42ae9962,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+976,5dd65d4db9f5445aafc9c2236e41d4c1,,unknown,unknown,unknown,0.0,0,unknown,0,0,PE City,PE
+977,12f7a61e656247859fbfa7ac23bfe53e,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+978,4c94ffb49b6d4c9190ad62177589935f,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+979,5f8bb8c6299446599a321a902ba27610,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+980,312d97a4bffb44268507f2d3b6cd4811,,unknown,unknown,unknown,0.0,0,unknown,0,0,BA City,BA
+981,79fb9cab9e314734840c1b2851a0b192,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+982,57882cfa0ad74771884d5d04bf952352,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+983,34e20cdd69d145c4a94cc9eedbd32b87,,unknown,unknown,unknown,0.0,0,unknown,0,0,BA City,BA
+984,fc55f225700544408c38f327eb5c140d,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+985,00d3ba82029a4ca989476d97c67e5a23,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+986,dc0040c1e9fa46409470ee8f36e9502c,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+987,447c9439893e48759f77feb6e6f6282f,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+988,7f49175c41ee4161a5d5a32ed7576186,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+989,71dba689f8ad4b9aa5871a35ab0dba91,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+990,ae184afc3a654feeb59ed51bccea7f54,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+991,479074b98b164d8e902ad0f9b67f62d6,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+992,e26ed74b2f7d42b0876b4022d8565e49,,unknown,unknown,unknown,0.0,0,unknown,0,0,DF City,DF
+993,76ea18d130e243d980475aeaef613d10,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+994,7942aa83e3be4c25972af3b2a8d54882,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+995,4ad69b12d3af4e1697feff6b584ac907,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+996,9b39485c236547fabc36cb3392f8edac,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+997,6812523280434496a1324198adf49f63,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+998,6f859a70fe774bd580808647a5a55c93,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+999,bd639cc590c7459cbbeeaf0cba6898bf,,unknown,unknown,unknown,0.0,0,unknown,0,0,BA City,BA
+1000,50e35d8e469d409a9688abe12016920f,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+1001,498b117165f84de8882182de99b7942c,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1002,a60edab3728041d0b99012ebe7adc7e6,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+1003,7332ab9db0f0410ca0cf8c921595515f,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1004,040c9f220e50467c8d9456e425c4c49e,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1005,187736853b9e4508afef1cb4f9f82ab3,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+1006,1a517fbd71d843b7820b699869ed0b2d,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1007,244a44270be34007b5386007062abf55,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1008,5d97809a6ecc4382a3e3f7f9c11cb07f,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+1009,28f5d8a75c06449d97274c61b1197731,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+1010,97ffb4b87bc34ec695c0775c1542772f,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+1011,3ae13cc0f75043a4874b3e8b1c1cb823,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+1012,dc57f840ab5d4e289db19c9796c86444,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+1013,98eeb489b16b4cf98ee5abaa4cca9ebb,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+1014,99e390610e694615bea1a08a2cd1465d,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1015,cf2e375781ea4163b249cb888ffdeba2,,unknown,unknown,unknown,0.0,0,unknown,0,0,CE City,CE
+1016,711e2bd4332e4e818660230ee98d9135,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1017,3130647d868349deaa0f4dec521ff5a8,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+1018,78938d8986b146099fc397c79950cc1b,,unknown,unknown,unknown,0.0,0,unknown,0,0,BA City,BA
+1019,1c3c10ae993e43c1beee4fe8f629da41,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+1020,811ca3f78d914f6f969bee4f5a14fc25,,unknown,unknown,unknown,0.0,0,unknown,0,0,BA City,BA
+1021,c1a15a698aa74c61a2868a1255b321bf,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1022,7b0f4ecf72564e34a2eabeaa6716d1ca,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1023,631469ecf98649ada02f947abccec140,,unknown,unknown,unknown,0.0,0,unknown,0,0,SC City,SC
+1024,45b9bbaa867c470abac0fb93095d0d13,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1025,bd5b88a3fcf6440493cffb9fa6cae7e5,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+1026,f7725034ad8b40eb97287503785c8294,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1027,654fcaea35b74d66aff7ffe21135817f,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR
+1028,52ab371c040f41279a09aa47ff996fa2,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+1029,7a8a594d417141a0af5deb61ad656988,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1030,8b226af3144a4150b1a461bb31942058,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+1031,3d33eaf3a901452dbe3dd914472afdfa,,unknown,unknown,unknown,0.0,0,unknown,0,0,Porto Alegre,RS
+1032,0f80b4f839964e84a635030eed4ee49a,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1033,bc1c6b27120449bbb2bc64268df1b805,,unknown,unknown,unknown,0.0,0,unknown,0,0,Belo Horizonte,MG
+1034,171f59a4b3f74241b147e679386ea3dc,,unknown,unknown,unknown,0.0,0,unknown,0,0,Rio de Janeiro,RJ
+1035,c90d9110aafb46bd937321349877c523,,unknown,unknown,unknown,0.0,0,unknown,0,0,Sao Paulo,SP
+1036,0924d7c9b9ff48cb80066c0c288ba4bd,,unknown,unknown,unknown,0.0,0,unknown,0,0,Curitiba,PR

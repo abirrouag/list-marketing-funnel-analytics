@@ -1,0 +1,200 @@
+// ==============================================================================
+// POWER BI DAX MEASURES: MARKETING FUNNEL & REVENUE ANALYTICS
+// Organised by Business Analytics Module
+// ==============================================================================
+
+// ------------------------------------------------------------------------------
+// MODULE 1: FUNNEL CONVERSION METRICS
+// ------------------------------------------------------------------------------
+
+// Total MQL Volume
+MQLs = 
+COUNTROWS('fact_lead')
+
+// Total Closed Won Deals
+Closed Deals = 
+CALCULATE(
+    COUNTROWS('fact_lead'),
+    'fact_lead'[is_won] = 1
+)
+
+// MQL to Closed Deal Conversion Rate
+Conversion Rate = 
+DIVIDE(
+    [Closed Deals],
+    [MQLs],
+    0.0
+)
+
+// Overall Benchmark Conversion Rate (Ignores Channel Slicers)
+Overall Conversion Rate = 
+CALCULATE(
+    [Conversion Rate],
+    ALL('dim_origin')
+)
+
+// Conversion Rate Variance vs Overall Benchmark
+Conversion Rate vs Overall = 
+[Conversion Rate] - [Overall Conversion Rate]
+
+// Wilson Score 95% Confidence Interval Lower Bound
+Wilson CI Lower = 
+VAR n = [MQLs]
+VAR p = [Conversion Rate]
+VAR z = 1.96
+RETURN
+IF(
+    n = 0,
+    0,
+    (p + (z * z / (2 * n)) - z * SQRT((p * (1 - p) + (z * z / (4 * n))) / n)) / (1 + (z * z / n))
+)
+
+// Wilson Score 95% Confidence Interval Upper Bound
+Wilson CI Upper = 
+VAR n = [MQLs]
+VAR p = [Conversion Rate]
+VAR z = 1.96
+RETURN
+IF(
+    n = 0,
+    0,
+    (p + (z * z / (2 * n)) + z * SQRT((p * (1 - p) + (z * z / (4 * n))) / n)) / (1 + (z * z / n))
+)
+
+
+// ------------------------------------------------------------------------------
+// MODULE 2: SPEED & TIME-TO-CLOSE METRICS
+// ------------------------------------------------------------------------------
+
+// Median Days from First Contact to Signed Deal
+Median Days To Close = 
+MEDIANX(
+    FILTER('fact_lead', 'fact_lead'[is_won] = 1 && NOT ISBLANK('fact_lead'[days_to_close])),
+    'fact_lead'[days_to_close]
+)
+
+// 75th Percentile Days To Close
+P75 Days To Close = 
+PERCENTILEX.INC(
+    FILTER('fact_lead', 'fact_lead'[is_won] = 1 && NOT ISBLANK('fact_lead'[days_to_close])),
+    'fact_lead'[days_to_close],
+    0.75
+)
+
+// Average Days To First Order (Post-Signing Acceleration)
+Avg Days To First Order = 
+AVERAGEX(
+    FILTER('vw_powerbi_seller_post_signing', NOT ISBLANK('vw_powerbi_seller_post_signing'[days_to_first_order])),
+    'vw_powerbi_seller_post_signing'[days_to_first_order]
+)
+
+
+// ------------------------------------------------------------------------------
+// MODULE 3: POST-SIGNING REVENUE & MONETIZATION METRICS
+// ------------------------------------------------------------------------------
+
+// Total Order Item Product Revenue Post-Signing
+Revenue Post-Signing = 
+SUM('fact_order_item'[price])
+
+// Total GMV (Product Revenue + Freight)
+Total GMV Post-Signing = 
+SUMX(
+    'fact_order_item',
+    'fact_order_item'[price] + 'fact_order_item'[freight_value]
+)
+
+// Revenue per Closed Deal (Key North-Star Metric)
+Revenue per Closed Deal = 
+DIVIDE(
+    [Revenue Post-Signing],
+    [Closed Deals],
+    0.0
+)
+
+// Active Sellers (Closed sellers with >= 1 order post-signing)
+Active Sellers = 
+CALCULATE(
+    DISTINCTCOUNT('fact_order_item'[seller_key]),
+    'fact_order_item'[days_after_won] >= 0,
+    'fact_order_item'[order_status] <> "canceled"
+)
+
+// Seller Activation Rate (%)
+Activation Rate = 
+DIVIDE(
+    [Active Sellers],
+    [Closed Deals],
+    0.0
+)
+
+// Revenue per Active Seller
+Revenue per Active Seller = 
+DIVIDE(
+    [Revenue Post-Signing],
+    [Active Sellers],
+    0.0
+)
+
+// Average Order Value (AOV)
+Average Order Value = 
+DIVIDE(
+    [Revenue Post-Signing],
+    DISTINCTCOUNT('fact_order_item'[order_id]),
+    0.0
+)
+
+// Average Customer Review Score (1 to 5)
+Avg Review Score = 
+AVERAGE('fact_order_item'[review_score])
+
+// Freight Cost Share of Total GMV (%)
+Freight Share % = 
+DIVIDE(
+    SUM('fact_order_item'[freight_value]),
+    [Total GMV Post-Signing],
+    0.0
+)
+
+
+// ------------------------------------------------------------------------------
+// MODULE 4: SENSITIVITY & DYNAMIC RANKING METRICS
+// ------------------------------------------------------------------------------
+
+// Post-Signing 90-Day Revenue
+Revenue 90d Post-Signing = 
+CALCULATE(
+    SUM('fact_order_item'[price]),
+    'fact_order_item'[days_after_won] <= 90
+)
+
+// Post-Signing 180-Day Revenue
+Revenue 180d Post-Signing = 
+CALCULATE(
+    SUM('fact_order_item'[price]),
+    'fact_order_item'[days_after_won] <= 180
+)
+
+// Dynamic Channel Rank by Revenue per Closed Deal
+Channel Rank by Revenue per Deal = 
+IF(
+    HASONEVALUE('dim_origin'[origin_name]),
+    RANKX(
+        ALL('dim_origin'),
+        [Revenue per Closed Deal],
+        ,
+        DESC,
+        Dense
+    ),
+    BLANK()
+)
+
+// Strategic Channel Classification Index
+Channel Performance Tag = 
+SWITCH(
+    TRUE(),
+    [Conversion Rate] >= 0.10 && [Revenue per Closed Deal] >= 500, "1. Top Performing (Scale Spend)",
+    [Conversion Rate] >= 0.08 && [Median Days To Close] > 25, "2. High Conv / Slow Speed (Optimize SDR)",
+    [Conversion Rate] < 0.07 && [Revenue per Closed Deal] >= 600, "3. Low Conv / High Rev (Fix Landing Page)",
+    "4. Underperforming (Reallocate Spend)"
+)

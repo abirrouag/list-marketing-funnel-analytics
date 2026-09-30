@@ -1,0 +1,11 @@
+origin_key,origin_name
+1,direct_traffic
+2,display
+3,email
+4,organic_search
+5,organic_social
+6,other
+7,paid_search
+8,referral
+9,social
+10,unknown

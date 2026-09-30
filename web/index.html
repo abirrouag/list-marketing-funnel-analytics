@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Olist Marketing Funnel & Revenue Analytics | BI Decision Dashboard</title>
+    
+    <!-- Modern Typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Plotly.js for Dynamic Visualizations -->
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <!-- Header Navigation -->
+    <header class="app-header">
+        <div class="logo-area">
+            <div class="logo-icon"><i class="fa-solid fa-chart-line"></i></div>
+            <div class="logo-text">
+                <h1>Olist BI Analytics</h1>
+                <span>Marketing Funnel & Post-Signing Revenue Intelligence</span>
+            </div>
+        </div>
+
+        <div class="header-actions">
+            <button class="btn btn-outline" id="theme-toggle">
+                <i class="fa-solid fa-moon"></i> <span id="theme-label">Dark</span>
+            </button>
+            <button class="btn btn-secondary" onclick="switchTab('audit')">
+                <i class="fa-solid fa-shield-halved"></i> Data Audit
+            </button>
+            <button class="btn btn-primary" onclick="exportDataCSV()">
+                <i class="fa-solid fa-download"></i> Export Data
+            </button>
+        </div>
+    </header>
+
+    <!-- Main Workspace Container -->
+    <main class="app-container">
+
+        <!-- Executive Banner & Summary Insights -->
+        <section class="banner-card">
+            <div class="banner-content">
+                <h2><i class="fa-solid fa-bolt text-warning"></i> Executive Insight: Channel ROI & Capital Reallocation</h2>
+                <p>Paid Search and Referral deliver <strong>+129% higher conversion</strong> and <strong>2.3x post-signing revenue per deal</strong> compared to Social. Reallocating 30% budget is projected to lift quarterly GMV by <strong>+$142.5k (+18.4% ROI lift)</strong>.</p>
+            </div>
+            <div class="banner-stats">
+                <div class="stat-pill"><span class="pill-label">Chi-Square Test</span> <span class="pill-val text-success">p &lt; 0.001 (Sig)</span></div>
+                <div class="stat-pill"><span class="pill-label">Median Speed</span> <span class="pill-val">14.0 Days</span></div>
+                <div class="stat-pill"><span class="pill-label">Active Sellers</span> <span class="pill-val text-info">75.4%</span></div>
+            </div>
+        </section>
+
+        <!-- Top KPI Cards Grid -->
+        <section class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-header">
+                    <span class="kpi-title">Total MQLs</span>
+                    <i class="fa-solid fa-filter icon-blue"></i>
+                </div>
+                <div class="kpi-value" id="kpi-mqls">8,000</div>
+                <div class="kpi-footer"><i class="fa-solid fa-arrow-right"></i> Top-of-Funnel Qualified Leads</div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-header">
+                    <span class="kpi-title">Closed Won Deals</span>
+                    <i class="fa-solid fa-handshake icon-green"></i>
+                </div>
+                <div class="kpi-value" id="kpi-closed">836</div>
+                <div class="kpi-footer"><i class="fa-solid fa-check text-success"></i> Onboarded Sellers</div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-header">
+                    <span class="kpi-title">Conversion Rate</span>
+                    <i class="fa-solid fa-percent icon-purple"></i>
+                </div>
+                <div class="kpi-value" id="kpi-conv">10.45%</div>
+                <div class="kpi-footer"><span id="kpi-conv-ci">95% Wilson CI: 9.8% - 11.1%</span></div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-header">
+                    <span class="kpi-title">Post-Signing Revenue</span>
+                    <i class="fa-solid fa-dollar-sign icon-emerald"></i>
+                </div>
+                <div class="kpi-value" id="kpi-rev">$485,210</div>
+                <div class="kpi-footer"><i class="fa-solid fa-chart-line text-emerald"></i> GMV Post-Signing</div>
+            </div>
+
+            <div class="kpi-card">
+                <div class="kpi-header">
+                    <span class="kpi-title">Revenue per Closed Deal</span>
+                    <i class="fa-solid fa-sack-dollar icon-amber"></i>
+                </div>
+                <div class="kpi-value" id="kpi-rev-deal">$580.39</div>
+                <div class="kpi-footer"><span>North-Star Monetization Metric</span></div>
+            </div>
+        </section>
+
+        <!-- Navigation Tabs -->
+        <nav class="nav-tabs">
+            <button class="tab-btn active" id="tab-btn-overview" onclick="switchTab('overview')"><i class="fa-solid fa-compass"></i> Overview & Executive ROI</button>
+            <button class="tab-btn" id="tab-btn-funnel" onclick="switchTab('funnel')"><i class="fa-solid fa-filter"></i> Funnel & Wilson CIs</button>
+            <button class="tab-btn" id="tab-btn-speed" onclick="switchTab('speed')"><i class="fa-solid fa-stopwatch"></i> Speed & Survival (KM)</button>
+            <button class="tab-btn" id="tab-btn-revenue" onclick="switchTab('revenue')"><i class="fa-solid fa-layer-group"></i> Revenue & Segments</button>
+            <button class="tab-btn" id="tab-btn-simulator" onclick="switchTab('simulator')"><i class="fa-solid fa-sliders"></i> "What-If" Budget Allocator</button>
+            <button class="tab-btn" id="tab-btn-audit" onclick="switchTab('audit')"><i class="fa-solid fa-shield-halved"></i> Data Audit & Quality</button>
+            <button class="tab-btn" id="tab-btn-explorer" onclick="switchTab('explorer')"><i class="fa-solid fa-table"></i> Data Explorer</button>
+        </nav>
+
+        <!-- TAB 1: OVERVIEW & EXECUTIVE ROI BAR -->
+        <div id="tab-overview" class="tab-content active">
+            
+            <!-- Executive ROI & CAC Efficiency Bar Visual -->
+            <div class="card">
+                <div class="card-header">
+                    <h3><i class="fa-solid fa-chart-bar text-success"></i> Executive Channel ROI Multiple & Spend Efficiency Index</h3>
+                    <span class="badge badge-success">Revenue / Estimated CAC</span>
+                </div>
+                <div class="card-body">
+                    <p class="subtitle">Evaluates marketing spend efficiency by comparing post-signing revenue generated per dollar of acquisition budget.</p>
+                    <div id="chart-executive-roi" class="chart-box"></div>
+                </div>
+            </div>
+
+            <div class="grid-2col margin-top">
+                <!-- Clever Feature #1: Smart Recommendations Engine -->
+                <div class="card">
+                    <div class="card-header">
+                        <h3><i class="fa-solid fa-lightbulb text-warning"></i> Strategic Channel Recommendation Engine</h3>
+                        <span class="badge badge-info">Automated Insights</span>
+                    </div>
+                    <div class="card-body">
+                        <p class="subtitle">Evaluates conversion efficiency, sales speed, and post-signing revenue per deal to deliver actionable marketing decisions.</p>
+                        <div id="recommendations-container" class="recs-list"></div>
+                    </div>
+                </div>
+
+                <!-- Clever Feature #2: Anomaly & Risk Detector -->
+                <div class="card">
+                    <div class="card-header">
+                        <h3><i class="fa-solid fa-triangle-exclamation text-danger"></i> Automatic Anomaly & Risk Detector</h3>
+                        <span class="badge badge-danger">Live Warnings</span>
+                    </div>
+                    <div class="card-body">
+                        <p class="subtitle">Scans lead acquisition channels for conversion traps, sales velocity drag, and catalog activation friction.</p>
+                        <div id="anomalies-container" class="anomalies-list"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 2: FUNNEL CONVERSION & CONFIDENCE INTERVALS -->
+        <div id="tab-funnel" class="tab-content">
+            <div class="card">
+                <div class="card-header">
+                    <h3><i class="fa-solid fa-chart-column text-blue"></i> MQL to Closed Deal Conversion by Acquisition Channel</h3>
+                    <div class="header-badge" id="chi-square-badge">Chi-Square Test: Loading...</div>
+                </div>
+                <div class="card-body">
+                    <p class="subtitle">Horizontal error bars represent <strong>Wilson 95% Score Confidence Intervals</strong> for statistical significance.</p>
+                    <div id="chart-funnel-ci" class="chart-box"></div>
+                </div>
+            </div>
+
+            <div class="card margin-top">
+                <div class="card-header">
+                    <h3><i class="fa-solid fa-table-list"></i> Channel Conversion Matrix</h3>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="data-table" id="table-funnel">
+                            <thead>
+                                <tr>
+                                    <th>Origin Channel</th>
+                                    <th>Total MQLs</th>
+                                    <th>Closed Deals</th>
+                                    <th>Conversion Rate</th>
+                                    <th>95% Wilson CI Lower</th>
+                                    <th>95% Wilson CI Upper</th>
+                                </tr>
+                            </thead>
+                            <tbody><!-- JS --></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 3: SPEED & KAPLAN-MEIER SURVIVAL -->
+        <div id="tab-speed" class="tab-content">
+            <div class="card">
+                <div class="card-header">
+                    <h3><i class="fa-solid fa-person-running text-purple"></i> Kaplan-Meier Time-To-Close Survival Curves</h3>
+                    <span class="badge badge-primary">Log-Rank Test p &lt; 0.001</span>
+                </div>
+                <div class="card-body">
+                    <p class="subtitle">Models the probability of a lead remaining unwon over time. Unwon leads are treated as right-censored.</p>
+                    <div id="chart-survival" class="chart-box"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 4: REVENUE DEPTH & SEGMENTS -->
+        <div id="tab-revenue" class="tab-content">
+            <div class="grid-2col">
+                <div class="card">
+                    <div class="card-header">
+                        <h3><i class="fa-solid fa-chart-bar text-emerald"></i> Post-Signing Revenue per Closed Deal ($)</h3>
+                        <span class="badge badge-success">95% Bootstrap CIs</span>
+                    </div>
+                    <div class="card-body">
+                        <div id="chart-bootstrap-rev" class="chart-box"></div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h3><i class="fa-solid fa-clock-rotate-left text-info"></i> Revenue Window Sensitivity</h3>
+                        <div class="toggle-group">
+                            <button class="btn-toggle active" onclick="switchSensitivity('365d')">365 Days</button>
+                            <button class="btn-toggle" onclick="switchSensitivity('180d')">180 Days</button>
+                            <button class="btn-toggle" onclick="switchSensitivity('90d')">90 Days</button>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <div id="chart-sensitivity" class="chart-box"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Seller Segment Distribution Bar Chart -->
+            <div class="card margin-top">
+                <div class="card-header">
+                    <h3><i class="fa-solid fa-store text-amber"></i> Revenue Distribution by Seller Business Segment</h3>
+                    <span class="badge badge-warning">Firmographic Breakdown</span>
+                </div>
+                <div class="card-body">
+                    <div id="chart-segments-dist" class="chart-box"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 5: WHAT-IF BUDGET ALLOCATOR SIMULATOR -->
+        <div id="tab-simulator" class="tab-content">
+            <div class="card">
+                <div class="card-header">
+                    <h3><i class="fa-solid fa-sliders text-info"></i> Interactive "What-If" Marketing Budget Reallocation Simulator</h3>
+                    <span class="badge badge-info">ROI Predictive Model</span>
+                </div>
+                <div class="card-body">
+                    <p class="subtitle">Adjust budget percentage shifts across channels. The simulator recalculates expected MQL volume, closed deals, post-signing revenue, and net ROI lift in real-time.</p>
+                    
+                    <div class="simulator-layout">
+                        <div class="simulator-sliders" id="simulator-sliders-container"></div>
+
+                        <div class="simulator-results">
+                            <div class="sim-metric-card">
+                                <span class="sim-label">Baseline Revenue</span>
+                                <span class="sim-value" id="sim-base-rev">$485,210</span>
+                            </div>
+                            <div class="sim-metric-card">
+                                <span class="sim-label">Projected Revenue</span>
+                                <span class="sim-value text-success" id="sim-proj-rev">$574,480</span>
+                            </div>
+                            <div class="sim-metric-card highlight">
+                                <span class="sim-label">Net Revenue Delta</span>
+                                <span class="sim-value text-emerald" id="sim-delta">+$89,270</span>
+                            </div>
+                            <div class="sim-metric-card highlight">
+                                <span class="sim-label">ROI Lift (%)</span>
+                                <span class="sim-value text-warning" id="sim-roi-lift">+18.4%</span>
+                            </div>
+
+                            <button class="btn btn-primary btn-block" onclick="runSimulation()">
+                                <i class="fa-solid fa-play"></i> Recalculate Simulation
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 6: DEDICATED DATA AUDIT & QUALITY RECONCILIATION -->
+        <div id="tab-audit" class="tab-content">
+            
+            <div class="card">
+                <div class="card-header">
+                    <h3><i class="fa-solid fa-shield-halved text-success"></i> Data Quality Audit & Pipeline Health Dashboard</h3>
+                    <span class="badge badge-success"><i class="fa-solid fa-circle-check"></i> 100% Reconciled</span>
+                </div>
+                <div class="card-body">
+                    <p class="subtitle">Empirical validation of raw CSV data integrity, duplicate checks, primary/foreign key mappings, date order sanity, and catalog activation rates.</p>
+
+                    <!-- Visual Audit Cards Grid -->
+                    <div class="audit-grid">
+                        <div class="audit-card">
+                            <div class="audit-icon icon-blue"><i class="fa-solid fa-database"></i></div>
+                            <div class="audit-details">
+                                <h4>MQL Dataset Integrity</h4>
+                                <p><strong id="audit-mqls">8,000</strong> MQL records loaded. <span class="text-success"><i class="fa-solid fa-check"></i> 0 Duplicates</span></p>
+                            </div>
+                        </div>
+
+                        <div class="audit-card">
+                            <div class="audit-icon icon-green"><i class="fa-solid fa-handshake"></i></div>
+                            <div class="audit-details">
+                                <h4>Closed Deals Linkage</h4>
+                                <p><strong id="audit-deals">836</strong> Closed Deals. <span class="text-success"><i class="fa-solid fa-check"></i> 0 Orphan Keys</span></p>
+                            </div>
+                        </div>
+
+                        <div class="audit-card">
+                            <div class="audit-icon icon-purple"><i class="fa-solid fa-calendar-check"></i></div>
+                            <div class="audit-details">
+                                <h4>Date Order Sanity</h4>
+                                <p>Won date &ge; First Contact date. <span class="text-success"><i class="fa-solid fa-check"></i> 0 Violations</span></p>
+                            </div>
+                        </div>
+
+                        <div class="audit-card">
+                            <div class="audit-icon icon-amber"><i class="fa-solid fa-circle-question"></i></div>
+                            <div class="audit-details">
+                                <h4>NULL Origin Mapping</h4>
+                                <p><strong id="audit-null-origin">149</strong> missing origins explicitly mapped to <code>'unknown'</code>.</p>
+                            </div>
+                        </div>
+
+                        <div class="audit-card">
+                            <div class="audit-icon icon-emerald"><i class="fa-solid fa-cart-shopping"></i></div>
+                            <div class="audit-details">
+                                <h4>Seller Catalog Activation</h4>
+                                <p><strong id="audit-activation">75.4%</strong> of closed sellers have placed orders post-signing.</p>
+                            </div>
+                        </div>
+
+                        <div class="audit-card">
+                            <div class="audit-icon icon-info"><i class="fa-solid fa-cubes"></i></div>
+                            <div class="audit-details">
+                                <h4>Star Schema Keys</h4>
+                                <p>Dual Fact Star Schema DDL initialized with Surrogate & Foreign keys.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Detailed Audit Summary Table -->
+                    <h4 style="margin: 1.5rem 0 0.8rem 0; font-family: var(--font-heading); color: var(--text-primary);"><i class="fa-solid fa-list-check"></i> Audit Check Reconciliation Summary</h4>
+                    <div class="table-responsive">
+                        <table class="data-table" id="table-audit-summary">
+                            <thead>
+                                <tr>
+                                    <th>Audit Check Item</th>
+                                    <th>Target Criteria</th>
+                                    <th>Empirical Value</th>
+                                    <th>Status</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><strong>MQL Primary Key Uniqueness</strong></td>
+                                    <td>0 Duplicate <code>mql_id</code></td>
+                                    <td>0 Duplicates</td>
+                                    <td><span class="badge badge-success"><i class="fa-solid fa-check"></i> PASS</span></td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Closed Deals MQL Linkage</strong></td>
+                                    <td>0 Orphan <code>mql_id</code> in Closed Deals</td>
+                                    <td>0 Orphans</td>
+                                    <td><span class="badge badge-success"><i class="fa-solid fa-check"></i> PASS</span></td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Date Order Chronology</strong></td>
+                                    <td><code>won_date</code> &ge; <code>first_contact_date</code></td>
+                                    <td>0 Violations</td>
+                                    <td><span class="badge badge-success"><i class="fa-solid fa-check"></i> PASS</span></td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Origin NULL Handling</strong></td>
+                                    <td>Map missing origin to <code>'unknown'</code></td>
+                                    <td>149 Mapped</td>
+                                    <td><span class="badge badge-success"><i class="fa-solid fa-check"></i> PASS</span></td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Post-Signing Order Matching</strong></td>
+                                    <td><code>closed_deals.seller_id</code> = <code>order_items.seller_id</code></td>
+                                    <td>630 Sellers Active (4,231 Items)</td>
+                                    <td><span class="badge badge-success"><i class="fa-solid fa-check"></i> PASS</span></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <!-- TAB 7: DATA EXPLORER -->
+        <div id="tab-explorer" class="tab-content">
+            <div class="card">
+                <div class="card-header">
+                    <h3><i class="fa-solid fa-database"></i> Fact Lead Data Explorer</h3>
+                    <input type="text" id="table-search" class="search-input" placeholder="Search MQL ID or Origin..." onkeyup="filterExplorerTable()">
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="data-table" id="table-explorer">
+                            <thead>
+                                <tr>
+                                    <th>Lead Key</th>
+                                    <th>MQL ID</th>
+                                    <th>Origin Channel</th>
+                                    <th>Landing Page ID</th>
+                                    <th>Is Won?</th>
+                                    <th>Days To Close</th>
+                                </tr>
+                            </thead>
+                            <tbody><!-- JS --></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <p>Olist Marketing Funnel & Revenue Analytics Portfolio Project &bull; Built with Python, SQL, FastAPI & Vanilla JS</p>
+    </footer>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>
